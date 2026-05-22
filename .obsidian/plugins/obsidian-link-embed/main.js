@@ -1729,7 +1729,7 @@ var HTMLTemplate = `<div class="embed">
   </div>
 </div>`;
 var REGEX = {
-  URL: "^(http|ftp|https):\\/\\/([\\w_-]+(?:(?:\\.[\\w_-]+)+))([\\w.,@?^=%&:\\/~+#-]*[\\w@?^=%&\\/~+#-])$",
+  URL: "^(http|ftp|https):\\/\\/([\\w_-]+(?:(?:\\.[\\w_-]+)+))([\\w.,@?^=%&:\\/~+#()-]*[\\w@?^=%&\\/~+#()-])$",
   HTML: `<div
   style="
     border: 1px solid rgb\\(222, 222, 222\\);
@@ -1990,7 +1990,7 @@ function generateEmbedMarkdown(data, settings, parserName) {
   };
   return mustache_default.render(MarkdownTemplate, escapedData) + "\n";
 }
-function tryParsers(url, selectedParsers, settings, locationInfo) {
+function tryParsers(url, selectedParsers, settings, locationInfo, vault) {
   return __async(this, null, function* () {
     let notice = null;
     try {
@@ -2008,7 +2008,7 @@ function tryParsers(url, selectedParsers, settings, locationInfo) {
           0
         );
         try {
-          const parser = createParser(selectedParser, settings, null);
+          const parser = createParser(selectedParser, settings, vault);
           parser.debug = settings.debug;
           parser.location = locationInfo;
           const data = yield parser.parse(url);
@@ -2051,7 +2051,8 @@ function convertUrlToMarkdownLink(url, selectedParsers, settings, vault) {
         url,
         selectedParsers,
         settings,
-        "create-markdown-link"
+        "create-markdown-link",
+        vault
       );
       if (data.title) {
         return `[${data.title}](${url})`;
@@ -2103,7 +2104,8 @@ function refreshEmbed(url, element, ctx, settings, vault) {
           url,
           [settings.primary, settings.backup],
           settings,
-          locationInfo
+          locationInfo,
+          vault
         );
         const newEmbed = generateEmbedMarkdown(
           data,
@@ -2276,7 +2278,7 @@ function addDeleteButtonHandler(element, embedInfo, ctx, vault, settings) {
     }));
   }
 }
-function embedUrl(editor, selected, selectedParsers, settings, inPlace = false) {
+function embedUrl(editor, selected, selectedParsers, settings, inPlace = false, vault = null) {
   return __async(this, null, function* () {
     const filePath = "unknown";
     const cursorPos = editor.getCursor();
@@ -2312,7 +2314,8 @@ function embedUrl(editor, selected, selectedParsers, settings, inPlace = false) 
         url,
         selectedParsers,
         settings,
-        locationInfo
+        locationInfo,
+        vault
       );
       const embed = generateEmbedMarkdown(data, settings, selectedParser);
       if (settings.delay > 0) {
@@ -3294,7 +3297,7 @@ function handleEmbedCodeBlock(source, el, ctx, settings, cache, vault, imageLoad
     }
   });
 }
-function handleEmbedLinkCommand(editor, settings) {
+function handleEmbedLinkCommand(editor, settings, vault) {
   return __async(this, null, function* () {
     const selected = yield ExEditor.getText(editor, settings.debug);
     if (!checkUrlValid(selected)) {
@@ -3305,11 +3308,12 @@ function handleEmbedLinkCommand(editor, settings) {
       selected,
       [settings.primary, settings.backup],
       settings,
-      settings.inPlace
+      settings.inPlace,
+      vault
     );
   });
 }
-function createParserCommandHandler(parserName, settings) {
+function createParserCommandHandler(parserName, settings, vault) {
   return (editor) => __async(null, null, function* () {
     const selected = yield ExEditor.getText(editor, settings.debug);
     if (!checkUrlValid(selected)) {
@@ -3320,7 +3324,8 @@ function createParserCommandHandler(parserName, settings) {
       selected,
       [parserName],
       settings,
-      settings.inPlace
+      settings.inPlace,
+      vault
     );
   });
 }
@@ -3384,7 +3389,8 @@ var EmbedSuggest = class extends import_obsidian10.EditorSuggest {
         },
         [this.plugin.settings.primary, this.plugin.settings.backup],
         this.plugin.settings,
-        true
+        true,
+        this.plugin.app.vault
       );
     } else if (suggestion.choice == "Create Markdown Link") {
       this.convertToMarkdownLink();
@@ -3444,7 +3450,8 @@ var EmbedSuggest = class extends import_obsidian10.EditorSuggest {
               this.plugin.settings.backup
             ],
             this.plugin.settings,
-            true
+            true,
+            this.plugin.app.vault
           );
         }
         return null;
@@ -3580,7 +3587,11 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian11.Plugin {
         id: "embed-link",
         name: "Create Embed Block",
         editorCallback: (editor) => __async(this, null, function* () {
-          yield handleEmbedLinkCommand(editor, this.settings);
+          yield handleEmbedLinkCommand(
+            editor,
+            this.settings,
+            this.app.vault
+          );
         })
       });
       this.addCommand({
@@ -3598,7 +3609,11 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian11.Plugin {
         this.addCommand({
           id: `embed-link-${name}`,
           name: `Create Embed Block with ${parseOptions[name]}`,
-          editorCallback: createParserCommandHandler(name, this.settings)
+          editorCallback: createParserCommandHandler(
+            name,
+            this.settings,
+            this.app.vault
+          )
         });
         this.addCommand({
           id: `create-markdown-link-${name}`,

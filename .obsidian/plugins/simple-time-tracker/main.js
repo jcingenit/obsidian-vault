@@ -77,20 +77,22 @@ var defaultSettings = {
   fineGrainedDurations: true,
   reverseSegmentOrder: false,
   timestampDurations: false,
-  showToday: false
+  showToday: false,
+  useMonospacedFont: false
 };
 
 // src/settings-tab.ts
 var import_obsidian = __toModule(require("obsidian"));
 var SimpleTimeTrackerSettingsTab = class extends import_obsidian.PluginSettingTab {
-  constructor(app2, plugin) {
-    super(app2, plugin);
+  constructor(app, plugin) {
+    super(app, plugin);
     this.plugin = plugin;
+    this.icon = "timer";
   }
   display() {
     this.containerEl.empty();
-    this.containerEl.createEl("h2", { text: "Super Simple Time Tracker Settings" });
-    new import_obsidian.Setting(this.containerEl).setName("Timestamp Display Format").setDesc(createFragment((f) => {
+    let group = new import_obsidian.SettingGroup(this.containerEl);
+    group.addSetting((s) => s.setName("Timestamp Display Format").setDesc(createFragment((f) => {
       f.createSpan({ text: "The way that timestamps in time tracker tables should be displayed. Uses " });
       f.createEl("a", { text: "moment.js", href: "https://momentjs.com/docs/#/parsing/string-format/" });
       f.createSpan({ text: " syntax." });
@@ -100,42 +102,49 @@ var SimpleTimeTrackerSettingsTab = class extends import_obsidian.PluginSettingTa
         this.plugin.settings.timestampFormat = v.length ? v : defaultSettings.timestampFormat;
         yield this.plugin.saveSettings();
       }));
-    });
-    new import_obsidian.Setting(this.containerEl).setName("CSV Delimiter").setDesc("The delimiter character that should be used when copying a tracker table as CSV. For example, some languages use a semicolon instead of a comma.").addText((t) => {
+    }));
+    group.addSetting((s) => s.setName("CSV Delimiter").setDesc("The delimiter character that should be used when copying a tracker table as CSV. For example, some languages use a semicolon instead of a comma.").addText((t) => {
       t.setValue(String(this.plugin.settings.csvDelimiter));
       t.onChange((v) => __async(this, null, function* () {
         this.plugin.settings.csvDelimiter = v.length ? v : defaultSettings.csvDelimiter;
         yield this.plugin.saveSettings();
       }));
-    });
-    new import_obsidian.Setting(this.containerEl).setName("Fine-Grained Durations").setDesc("Whether durations should include days, months and years. If this is disabled, additional time units will be displayed as part of the hours.").addToggle((t) => {
+    }));
+    group.addSetting((s) => s.setName("Fine-Grained Durations").setDesc("Whether durations should include days, months and years. If this is disabled, additional time units will be displayed as part of the hours.").addToggle((t) => {
       t.setValue(this.plugin.settings.fineGrainedDurations);
       t.onChange((v) => __async(this, null, function* () {
         this.plugin.settings.fineGrainedDurations = v;
         yield this.plugin.saveSettings();
       }));
-    });
-    new import_obsidian.Setting(this.containerEl).setName("Timestamp Durations").setDesc("Whether durations should be displayed in a timestamp format (12:15:01) rather than the default duration format (12h 15m 1s).").addToggle((t) => {
+    }));
+    group.addSetting((s) => s.setName("Timestamp Durations").setDesc("Whether durations should be displayed in a timestamp format (12:15:01) rather than the default duration format (12h 15m 1s).").addToggle((t) => {
       t.setValue(this.plugin.settings.timestampDurations);
       t.onChange((v) => __async(this, null, function* () {
         this.plugin.settings.timestampDurations = v;
         yield this.plugin.saveSettings();
       }));
-    });
-    new import_obsidian.Setting(this.containerEl).setName("Display Segments in Reverse Order").setDesc("Whether older tracker segments should be displayed towards the bottom of the tracker, rather than the top.").addToggle((t) => {
+    }));
+    group.addSetting((s) => s.setName("Display Segments in Reverse Order").setDesc("Whether older tracker segments should be displayed towards the bottom of the tracker, rather than the top.").addToggle((t) => {
       t.setValue(this.plugin.settings.reverseSegmentOrder);
       t.onChange((v) => __async(this, null, function* () {
         this.plugin.settings.reverseSegmentOrder = v;
         yield this.plugin.saveSettings();
       }));
-    });
-    new import_obsidian.Setting(this.containerEl).setName("Show Total Today").setDesc("Whether the total time spent today should be displayed in the tracker table.").addToggle((t) => {
+    }));
+    group.addSetting((s) => s.setName("Show Total Today").setDesc("Whether the total time spent today should be displayed in the tracker table.").addToggle((t) => {
       t.setValue(this.plugin.settings.showToday);
       t.onChange((v) => __async(this, null, function* () {
         this.plugin.settings.showToday = v;
         yield this.plugin.saveSettings();
       }));
-    });
+    }));
+    group.addSetting((s) => s.setName("Use Monospaced Font for Times").setDesc("Whether your configured monospaced font should be used for the times in the title, causing them to jump around less while counting up.").addToggle((t) => {
+      t.setValue(this.plugin.settings.useMonospacedFont);
+      t.onChange((v) => __async(this, null, function* () {
+        this.plugin.settings.useMonospacedFont = v;
+        yield this.plugin.saveSettings();
+      }));
+    }));
     this.containerEl.createEl("hr");
     this.containerEl.createEl("p", { text: "Need help using the plugin? Feel free to join the Discord server!" });
     this.containerEl.createEl("a", { href: "https://link.ellpeck.de/discordweb" }).createEl("img", {
@@ -156,8 +165,8 @@ var import_obsidian3 = __toModule(require("obsidian"));
 // src/confirm-modal.ts
 var import_obsidian2 = __toModule(require("obsidian"));
 var ConfirmModal = class extends import_obsidian2.Modal {
-  constructor(app2, message, callback) {
-    super(app2);
+  constructor(app, message, callback) {
+    super(app);
     this.message = message;
     this.callback = callback;
   }
@@ -182,7 +191,7 @@ var ConfirmModal = class extends import_obsidian2.Modal {
 };
 
 // src/tracker.ts
-function saveTracker(tracker, fileName, section) {
+function saveTracker(app, tracker, fileName, section) {
   return __async(this, null, function* () {
     let file = app.vault.getAbstractFileByPath(fileName);
     if (!file)
@@ -209,7 +218,7 @@ function loadTracker(json) {
   }
   return { entries: [] };
 }
-function loadAllTrackers(fileName) {
+function loadAllTrackers(app, fileName) {
   return __async(this, null, function* () {
     let file = app.vault.getAbstractFileByPath(fileName);
     let content = (yield app.vault.cachedRead(file)).split("\n");
@@ -234,7 +243,7 @@ function loadAllTrackers(fileName) {
     return trackers;
   });
 }
-function displayTracker(tracker, element, getFile, getSectionInfo, settings, component) {
+function displayTracker(app, tracker, element, getFile, getSectionInfo, settings, component) {
   element.addClass("simple-time-tracker-container");
   let running = isRunning(tracker);
   let btn = new import_obsidian3.ButtonComponent(element).setClass("clickable-icon").setIcon(`lucide-${running ? "stop" : "play"}-circle`).setTooltip(running ? "End" : "Start").onClick(() => __async(this, null, function* () {
@@ -243,29 +252,35 @@ function displayTracker(tracker, element, getFile, getSectionInfo, settings, com
     } else {
       startNewEntry(tracker, newSegmentNameBox.getValue());
     }
-    yield saveTracker(tracker, getFile(), getSectionInfo());
+    yield saveTracker(app, tracker, getFile(), getSectionInfo());
   }));
   btn.buttonEl.addClass("simple-time-tracker-btn");
   let newSegmentNameBox = new import_obsidian3.TextComponent(element).setPlaceholder("Segment name").setDisabled(running);
   newSegmentNameBox.inputEl.addClass("simple-time-tracker-txt");
+  let timeStyle = {
+    cls: "simple-time-tracker-timer-time",
+    attr: {
+      style: settings.useMonospacedFont ? "font-family: var(--font-monospace);" : ""
+    }
+  };
   let timer = element.createDiv({ cls: "simple-time-tracker-timers" });
   let currentDiv = timer.createEl("div", { cls: "simple-time-tracker-timer" });
-  let current = currentDiv.createEl("span", { cls: "simple-time-tracker-timer-time" });
+  let current = currentDiv.createEl("span", timeStyle);
   currentDiv.createEl("span", { text: "Current" });
   let totalDiv = timer.createEl("div", { cls: "simple-time-tracker-timer" });
-  let total = totalDiv.createEl("span", { cls: "simple-time-tracker-timer-time", text: "0s" });
+  let total = totalDiv.createEl("span", timeStyle);
   totalDiv.createEl("span", { text: "Total" });
   let totalToday;
   if (settings.showToday) {
     let totalTodayDiv = timer.createEl("div", { cls: "simple-time-tracker-timer" });
-    totalToday = totalTodayDiv.createEl("span", { cls: "simple-time-tracker-timer-time", text: "0s" });
+    totalToday = totalTodayDiv.createEl("span", timeStyle);
     totalTodayDiv.createEl("span", { text: "Today" });
   }
   if (tracker.entries.length > 0) {
     let table = element.createEl("table", { cls: "simple-time-tracker-table" });
     table.createEl("tr").append(createEl("th", { text: "Segment" }), createEl("th", { text: "Start time" }), createEl("th", { text: "End time" }), createEl("th", { text: "Duration" }), createEl("th"));
     for (let entry of orderedEntries(tracker.entries, settings))
-      addEditableTableRow(tracker, entry, table, newSegmentNameBox, running, getFile, getSectionInfo, settings, 0, component);
+      addEditableTableRow(app, tracker, entry, table, newSegmentNameBox, running, getFile, getSectionInfo, settings, 0, component);
     let buttons = element.createEl("div", { cls: "simple-time-tracker-bottom" });
     new import_obsidian3.ButtonComponent(buttons).setButtonText("Copy as table").onClick(() => navigator.clipboard.writeText(createMarkdownTable(tracker, settings)));
     new import_obsidian3.ButtonComponent(buttons).setButtonText("Copy as CSV").onClick(() => navigator.clipboard.writeText(createCsv(tracker, settings)));
@@ -282,6 +297,8 @@ function displayTracker(tracker, element, getFile, getSectionInfo, settings, com
 function getDuration(entry) {
   if (entry.subEntries) {
     return getTotalDuration(entry.subEntries);
+  } else if (!entry.startTime) {
+    return 0;
   } else {
     let endTime = entry.endTime ? (0, import_obsidian3.moment)(entry.endTime) : (0, import_obsidian3.moment)();
     return endTime.diff((0, import_obsidian3.moment)(entry.startTime));
@@ -290,6 +307,8 @@ function getDuration(entry) {
 function getDurationToday(entry) {
   if (entry.subEntries) {
     return getTotalDurationToday(entry.subEntries);
+  } else if (!entry.startTime) {
+    return 0;
   } else {
     let today = (0, import_obsidian3.moment)().startOf("day");
     let endTime = entry.endTime ? (0, import_obsidian3.moment)(entry.endTime) : (0, import_obsidian3.moment)();
@@ -324,7 +343,7 @@ function getRunningEntry(entries) {
       let running = getRunningEntry(entry.subEntries);
       if (running)
         return running;
-    } else {
+    } else if (entry.startTime) {
       if (!entry.endTime)
         return entry;
     }
@@ -348,11 +367,14 @@ function createMarkdownTable(tracker, settings) {
   }
   return ret;
 }
+function createCsvCell(content) {
+  return `"${content.replace(/"/g, '""')}"`;
+}
 function createCsv(tracker, settings) {
   let ret = "";
   for (let entry of orderedEntries(tracker.entries, settings)) {
     for (let row of createTableSection(entry, settings))
-      ret += row.join(settings.csvDelimiter) + "\n";
+      ret += row.map(createCsvCell).join(settings.csvDelimiter) + "\n";
   }
   return ret;
 }
@@ -473,29 +495,35 @@ function createTableSection(entry, settings, indent = 0) {
   }
   return ret;
 }
-function addEditableTableRow(tracker, entry, table, newSegmentNameBox, trackerRunning, getFile, getSectionInfo, settings, indent, component) {
+function addEditableTableRow(app, tracker, entry, table, newSegmentNameBox, trackerRunning, getFile, getSectionInfo, settings, indent, component) {
   let entryRunning = getRunningEntry(tracker.entries) == entry;
   let row = table.createEl("tr");
   let nameField = new EditableField(row, indent, entry.name);
   let startField = new EditableTimestampField(row, entry.startTime, settings);
   let endField = new EditableTimestampField(row, entry.endTime, settings);
   row.createEl("td", { text: entry.endTime || entry.subEntries ? formatDuration(getDuration(entry), settings) : "" });
-  renderNameAsMarkdown(nameField.label, getFile, component);
+  renderNameAsMarkdown(app, nameField.label, getFile, component);
   let expandButton = new import_obsidian3.ButtonComponent(nameField.label).setClass("clickable-icon").setClass("simple-time-tracker-expand-button").setIcon(`chevron-${entry.collapsed ? "left" : "down"}`).onClick(() => __async(this, null, function* () {
     if (entry.collapsed) {
       entry.collapsed = void 0;
     } else {
       entry.collapsed = true;
     }
-    yield saveTracker(tracker, getFile(), getSectionInfo());
+    yield saveTracker(app, tracker, getFile(), getSectionInfo());
   }));
   if (!entry.subEntries)
     expandButton.buttonEl.style.visibility = "hidden";
   let entryButtons = row.createEl("td");
   entryButtons.addClass("simple-time-tracker-table-buttons");
-  new import_obsidian3.ButtonComponent(entryButtons).setClass("clickable-icon").setIcon(`lucide-play`).setTooltip("Continue").setDisabled(trackerRunning).onClick(() => __async(this, null, function* () {
-    startSubEntry(entry, newSegmentNameBox.getValue());
-    yield saveTracker(tracker, getFile(), getSectionInfo());
+  new import_obsidian3.ButtonComponent(entryButtons).setClass("clickable-icon").setIcon(`lucide-${entryRunning ? "square" : "play"}`).setTooltip(entryRunning ? "End" : "Continue").setDisabled(trackerRunning && !entryRunning).onClick(() => __async(this, null, function* () {
+    if (entryRunning) {
+      endRunningEntry(tracker);
+    } else if (!entry.subEntries && !entry.startTime) {
+      entry.startTime = (0, import_obsidian3.moment)().toISOString();
+    } else {
+      startSubEntry(entry, newSegmentNameBox.getValue());
+    }
+    yield saveTracker(app, tracker, getFile(), getSectionInfo());
   }));
   let editButton = new import_obsidian3.ButtonComponent(entryButtons).setClass("clickable-icon").setTooltip("Edit").setIcon("lucide-pencil").onClick(() => __async(this, null, function* () {
     yield handleEdit();
@@ -524,9 +552,9 @@ function addEditableTableRow(tracker, entry, table, newSegmentNameBox, trackerRu
         endField.endEdit();
         entry.endTime = endField.getTimestamp();
       }
-      yield saveTracker(tracker, getFile(), getSectionInfo());
+      yield saveTracker(app, tracker, getFile(), getSectionInfo());
       editButton.setIcon("lucide-pencil");
-      renderNameAsMarkdown(nameField.label, getFile, component);
+      renderNameAsMarkdown(app, nameField.label, getFile, component);
     });
   }
   function startEditing() {
@@ -552,27 +580,28 @@ function addEditableTableRow(tracker, entry, table, newSegmentNameBox, trackerRu
     };
   }
   new import_obsidian3.ButtonComponent(entryButtons).setClass("clickable-icon").setTooltip("Remove").setIcon("lucide-trash").setDisabled(entryRunning).onClick(() => __async(this, null, function* () {
-    const confirmed = yield showConfirm("Are you sure you want to delete this entry?");
+    const confirmed = yield showConfirm(app, "Are you sure you want to delete this entry?");
     if (!confirmed) {
       return;
     }
     removeEntry(tracker.entries, entry);
-    yield saveTracker(tracker, getFile(), getSectionInfo());
+    yield saveTracker(app, tracker, getFile(), getSectionInfo());
   }));
   if (entry.subEntries && !entry.collapsed) {
     for (let sub of orderedEntries(entry.subEntries, settings))
-      addEditableTableRow(tracker, sub, table, newSegmentNameBox, trackerRunning, getFile, getSectionInfo, settings, indent + 1, component);
+      addEditableTableRow(app, tracker, sub, table, newSegmentNameBox, trackerRunning, getFile, getSectionInfo, settings, indent + 1, component);
   }
 }
-function showConfirm(message) {
+function showConfirm(app, message) {
   return new Promise((resolve) => {
     const modal = new ConfirmModal(app, message, resolve);
     modal.open();
   });
 }
-function renderNameAsMarkdown(label, getFile, component) {
-  void import_obsidian3.MarkdownRenderer.renderMarkdown(label.innerHTML, label, getFile(), component);
-  label.innerHTML = label.querySelector("p").innerHTML;
+function renderNameAsMarkdown(app, label, getFile, component) {
+  void import_obsidian3.MarkdownRenderer.render(app, label.innerHTML, label, getFile(), component);
+  let p = label.querySelector("p");
+  label.replaceChildren(...Array.from(p.childNodes));
 }
 var EditableField = class {
   constructor(row, indent, value) {
@@ -647,13 +676,13 @@ var SimpleTimeTrackerPlugin = class extends import_obsidian4.Plugin {
     super(...arguments);
     this.api = {
       loadTracker,
-      loadAllTrackers,
       getDuration,
       getTotalDuration,
       getDurationToday,
       getTotalDurationToday,
       getRunningEntry,
       isRunning,
+      loadAllTrackers: (fileName) => loadAllTrackers(this.app, fileName),
       formatTimestamp: (timestamp) => formatTimestamp(timestamp, this.settings),
       formatDuration: (totalTime) => formatDuration(totalTime, this.settings),
       orderedEntries: (entries) => orderedEntries(entries, this.settings)
@@ -674,7 +703,7 @@ var SimpleTimeTrackerPlugin = class extends import_obsidian4.Plugin {
             filePath = file.path;
           }
         }));
-        displayTracker(tracker, e, getFile, () => i.getSectionInfo(e), this.settings, component);
+        displayTracker(this.app, tracker, e, getFile, () => i.getSectionInfo(e), this.settings, component);
         i.addChild(component);
       });
       this.addCommand({

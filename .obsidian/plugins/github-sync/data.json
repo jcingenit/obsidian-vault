@@ -1,7 +1,9 @@
 {
-  "remoteURL": "https://github.com/jcingenit/obsidian.git",
+  "remoteURL": "https://github.com/jcingenit/obsidian-vault.git",
   "gitLocation": "",
   "syncinterval": 10,
   "isSyncOnLoad": true,
-  "checkStatusOnLoad": true
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
 }
