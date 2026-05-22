@@ -1,0 +1,5 @@
+[[Proposal-AIP]]
+[[Contract-AIP]]
+[[Scope-AIP]]
+[[Invoices-AIP]]
+[[Credentials-AIP]]

@@ -1,0 +1,5 @@
+lire la première présentation du PPT de notre unité 3 (_Ressources humaines_) (ci-jointe) et 2. noter avec vos propres mots ce qui a le plus attiré votre attention, ce que vous avez appris, ce que vous n'avez pas compris... Le tout doit tenir dans une page de devoir rédigé (pas de listes). Rappelez-vous que le contenu de ce PPT fait partie du matériel à étudier pour les examens de l'unité 3.
+
+	Ce que m'a attire soit que le contrat de travail peut etre oral ou ectrit, ce qu'une employeur parle avec moi pourrait definir un contrat entre nous pour le terme d'emploiement.
+	J'ai pas appris quelque chose nouvelle, mais je pensera c'est a cause du mes experiences au cours de la loie des entreprises. Ces loies apparaissent d'etre en place en france aussi.
+	J'en ai compris tout aussi, car les cours de la loie. Je suis que il n'y a pas beaucoup de texte ici, mais je suis d'accord avec toute l'info en PPT.

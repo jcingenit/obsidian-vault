@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"hub","type":"file","x":-200,"y":-120,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/PE Hub.md","color":"1"},
+		{"id":"ov","type":"file","x":200,"y":-120,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Overview – Plane English.md","color":"2"},
+		{"id":"con","type":"file","x":200,"y":40,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Contacts – Plane English.md"},
+		{"id":"cred","type":"file","x":200,"y":200,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Credentials – Plane English.md"},
+		{"id":"idx","type":"file","x":-200,"y":40,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Project Index – Plane English.md"},
+		{"id":"com","type":"file","x":-560,"y":-40,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Comms Log – Plane English.md"},
+		{"id":"chg","type":"file","x":-560,"y":120,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Change Log – Plane English.md"},
+		{"id":"risk","type":"file","x":-560,"y":280,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/Decisions & Risks – Plane English.md"},
+		{"id":"inv","type":"file","x":-200,"y":200,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/00-Admin/Finance/Invoice Tracker – Plane English.md"},
+		{"id":"cal","type":"file","x":-200,"y":360,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/04-Marketing/Content Calendar – Plane English.md"},
+		{"id":"ts","type":"file","x":-560,"y":-200,"width":300,"height":100,"file":"Olive Branch Studio/Clients/Plane English/00-Admin/Finance/Timesheets/Timesheet 2025-09 – Plane English.md"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"hub","fromSide":"right","toNode":"ov","toSide":"left"},
+		{"id":"e2","fromNode":"hub","fromSide":"right","toNode":"con","toSide":"left"},
+		{"id":"e3","fromNode":"hub","fromSide":"right","toNode":"cred","toSide":"left"},
+		{"id":"e4","fromNode":"hub","fromSide":"left","toNode":"idx","toSide":"right"},
+		{"id":"e5","fromNode":"idx","fromSide":"left","toNode":"com","toSide":"right"},
+		{"id":"e6","fromNode":"idx","fromSide":"left","toNode":"chg","toSide":"right"},
+		{"id":"e7","fromNode":"idx","fromSide":"left","toNode":"risk","toSide":"right"},
+		{"id":"e8","fromNode":"hub","fromSide":"bottom","toNode":"inv","toSide":"top"},
+		{"id":"e9","fromNode":"hub","fromSide":"bottom","toNode":"cal","toSide":"top"},
+		{"id":"e10","fromNode":"hub","fromSide":"left","toNode":"ts","toSide":"right"}
+	],
+	"scale":1,
+	"x":0,
+	"y":0
+}

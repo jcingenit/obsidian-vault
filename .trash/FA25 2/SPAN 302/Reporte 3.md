@@ -1,0 +1,7 @@
+Grace Hopper fue una informática y militar estadounidense que creó uno de los inventos más importantes en la historia de la tecnología: el primer compilador, una herramienta que permite que las computadoras entiendan instrucciones escritas en lenguaje humano. Su trabajo representó un gran _avance_ en el desarrollo de software y transformó la manera en que usamos la tecnología en la vida diaria.
+
+Hopper nació en 1906 en Nueva York y desde niña mostró curiosidad por _resolver_ problemas matemáticos. Estudió matemáticas en la universidad y más tarde trabajó con algunas de las primeras _máquinas_ computadoras durante la Segunda Guerra Mundial. En ese contexto, notó que programar era un proceso lento y complicado, lo que la motivó a _innovar_ y buscar una forma de _mejorar_ la comunicación entre las personas y las máquinas.
+
+En 1952, desarrolló el compilador A-0, un _invento_ que _contribuyó_ a que más personas pudieran programar sin conocer el lenguaje técnico original de las computadoras. También participó en la creación del lenguaje COBOL, que se usa incluso hoy.
+
+Gracias a este _desarrollo_, Hopper se considera una de las _creadoras_ más influyentes en la historia de la computación, y su trabajo continúa impactando nuestra vida cotidiana.

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c0455fe72880bb91","type":"text","text":"# Olive Branch Studio LLC","x":-277,"y":-605,"width":358,"height":50,"color":"4"},
+		{"id":"119ef62adc036eb6","type":"text","text":"## Active Clients","x":302,"y":-400,"width":198,"height":60,"color":"4"},
+		{"id":"52a6cfa350cec663","type":"file","file":"Olive Branch Studio/ClientsPrelim/PlaneEnglish.md","x":440,"y":-120,"width":400,"height":400},
+		{"id":"3d5c0c4ba14e8519","type":"file","file":"Olive Branch Studio/ClientsPrelim/Boilermaker Alliance.md","x":-40,"y":-120,"width":400,"height":400},
+		{"id":"82eb7282e2822577","type":"text","text":"## Potential Active Clients","x":-680,"y":-400,"width":304,"height":60,"color":"2"},
+		{"id":"deb1ec9e4611fece","type":"file","file":"OBS/OBS Quick Links.md","x":-267,"y":-1080,"width":338,"height":320}
+	],
+	"edges":[
+		{"id":"e3da19cedd5ca4cc","fromNode":"c0455fe72880bb91","fromSide":"right","toNode":"119ef62adc036eb6","toSide":"top"},
+		{"id":"b0bb4e0d45cb9f75","fromNode":"119ef62adc036eb6","fromSide":"bottom","toNode":"52a6cfa350cec663","toSide":"top"},
+		{"id":"ef3da917e1edee89","fromNode":"119ef62adc036eb6","fromSide":"bottom","toNode":"3d5c0c4ba14e8519","toSide":"top"},
+		{"id":"6d356e4d662018ce","fromNode":"82eb7282e2822577","fromSide":"right","toNode":"119ef62adc036eb6","toSide":"left"},
+		{"id":"190c54c4342fa515","fromNode":"c0455fe72880bb91","fromSide":"top","toNode":"deb1ec9e4611fece","toSide":"bottom"}
+	]
+}

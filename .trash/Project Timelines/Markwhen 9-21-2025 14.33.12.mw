@@ -1,0 +1,11 @@
+section All Projects
+  group Finish Portfolio #PortfolioSept
+    2025-09-21/2025-09-21: Finalize Details
+		Include project organization
+    2025-09-22/2025-09-22: Publish
+	    Site Should be Live by 23:59
+    - [ ] Project Organization
+    - [ ] Finalize Animation Details
+    - [ ] Finalize Copy
+  endGroup
+2025-09-21: new event
