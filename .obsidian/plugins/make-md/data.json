@@ -183,7 +183,7 @@
   ],
   "newFileLocation": "current",
   "inlineBacklinks": false,
-  "inlineContext": true,
+  "inlineContext": false,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextProperties": true,
