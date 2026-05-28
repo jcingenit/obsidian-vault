@@ -1,3 +1,5 @@
+[[90 Day Plan]]
+
 [[Positioning]]
 [[Target Markets]]
 - **Wellness / fitness / personal services**
@@ -13,6 +15,7 @@
 [[Proposal]]
 [[Contract]]
 
+[[Metrics to Track & Goals]]
 [[Client Process]]
 
 
