@@ -24,19 +24,7 @@
             }
           },
           {
-            "id": "fe013c8701e1ac77",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "CHI FREELANCE"
-              },
-              "icon": "lucide-file",
-              "title": "CHI FREELANCE"
-            }
-          },
-          {
-            "id": "c0fe46d945a70cd9",
+            "id": "42ce92fd4d65fcd8",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 200
   },
   "right": {
     "id": "43b568fbd1b75f86",
@@ -234,11 +222,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "93acec1fc8a19e17",
+  "active": "c3b879f417c0a343",
   "lastOpenFiles": [
-    "CHI FREELANCE/CHI FREELANCE.md",
-    "CHI FREELANCE/Target Markets.md",
     "CHI FREELANCE/Positioning.md",
+    "CHI FREELANCE/CHI FREELANCE.md",
+    "CHI FREELANCE/Client Process.md",
+    "CHI FREELANCE/Contract.md",
+    "CHI FREELANCE/Proposal.md",
+    "CHI FREELANCE/Pricing Strategies.md",
+    "CHI FREELANCE/Outreach.md",
+    "CHI FREELANCE/Free Audit.md",
+    "CHI FREELANCE/Lead Development.md",
+    "CHI FREELANCE/Leads.md",
+    "CHI FREELANCE/Freelance Site.md",
+    "CHI FREELANCE/Service Packages.md",
+    "Vault.md",
+    "CHI FREELANCE/Target Markets.md",
     "Freelance/Untitled.md",
     "CHI FREELANCE/CHICAGO FREELANCE.md",
     "CHI FREELANCE",
@@ -255,17 +254,6 @@
     "Obsidian",
     "Freelance/BOM Project Hub/BOM Project Hub.md",
     "Freelance/PE Project Hub/PE Project Hub.md",
-    "Freelance/PE Project Hub/01_Discovery-PE/01_Discovery-PE.md",
-    "Freelance/PE Project Hub/02_Strategy-PE/02_Strategy-PE.md",
-    "Freelance/PE Project Hub/02_Strategy-PE/Branding-PE/Branding-PE.md",
-    "Freelance/PE Project Hub/03_Execution-PE/03_Execution-PE.md",
-    "Freelance/BOM Project Hub/00_Admin-BOM/00_Admin-BOM.md",
-    "ADLER/ADLER.md",
-    "SP 26/SPAN 415/TraduccionAudiovisual 2.md",
-    "SP 26/SPAN 424/SPAN 424.md",
-    "Freelance/PE Project Hub/00_Admin-PE/00_Admin-PE.md",
-    "SP 26/SPAN 415/Subjuntivo 2.md",
-    "SP 26/FR 424/Lettre de reclamacion.md",
     "3",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
