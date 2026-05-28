@@ -1,0 +1,9 @@
+| Niche                                   | Why it works                                                                          | What to offer                                             |
+| --------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Restaurants, cafés, bars                | Chicago has tons of independent food businesses; many sites are outdated or menu-only | Mobile site, menu page, reservations/ordering links, SEO  |
+| Salons, spas, barbers                   | Booking-driven businesses need clean mobile UX                                        | Booking site, services page, Google Business Profile help |
+| Therapists, clinics, wellness providers | Trust and clarity matter a lot                                                        | Professional site, service pages, intake forms            |
+| Realtors/property managers              | Need landing pages and lead capture                                                   | Listing pages, neighborhood pages, lead forms             |
+| Wedding/event vendors                   | High-value leads; visuals matter                                                      | Portfolio site, inquiry form, packages                    |
+| Local nonprofits                        | Often need affordable modernization                                                   | Donation pages, volunteer forms, clear messaging          |
+| Student/alumni entrepreneurs            | Easier warm network entry                                                             | Landing pages, MVP sites, launch pages                    |

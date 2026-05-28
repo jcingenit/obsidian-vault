@@ -22,8 +22,33 @@
               "icon": "lucide-file",
               "title": "_TimeTracker"
             }
+          },
+          {
+            "id": "fe013c8701e1ac77",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "CHI FREELANCE"
+              },
+              "icon": "lucide-file",
+              "title": "CHI FREELANCE"
+            }
+          },
+          {
+            "id": "c0fe46d945a70cd9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "CHI FREELANCE"
+              },
+              "icon": "lucide-file",
+              "title": "CHI FREELANCE"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +234,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "93acec1fc8a19e17",
   "lastOpenFiles": [
+    "CHI FREELANCE/CHI FREELANCE.md",
+    "CHI FREELANCE/Target Markets.md",
+    "CHI FREELANCE/Positioning.md",
+    "Freelance/Untitled.md",
+    "CHI FREELANCE/CHICAGO FREELANCE.md",
+    "CHI FREELANCE",
     "Freelance/Freelance.md",
     "_TimeTracker.md",
     "Personal/Personal.md",
@@ -235,10 +266,6 @@
     "Freelance/PE Project Hub/00_Admin-PE/00_Admin-PE.md",
     "SP 26/SPAN 415/Subjuntivo 2.md",
     "SP 26/FR 424/Lettre de reclamacion.md",
-    "Untitled.md",
-    "SP 26/SPAN 415/Taller de traduccion literaria 1.md",
-    "SP 26/SPAN 415/Taller de traduccion literaria 2.md",
-    "SP 26/SPAN 415/TiemposDelPasado.md",
     "3",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
@@ -253,7 +280,6 @@
     "SP 26/SPAN 415/20260128 SPAN415 - Pronombres.pdf",
     "SP 26/SPAN 415/20260123 SPAN415 - Falsos cognados.pdf",
     "SP 26/SPAN 415/20260121 SPAN415 - Equivalentes de TO BE.pdf",
-    "SP 26/SPAN 415/Ingenito, Jackson - Practice Activities 1.pdf",
     "Freelance/PE Project Hub/02_Strategy-PE/Branding-PE/PE - Logo Blue.png",
     "Olive Branch Studio/Clients/PE-prelim/_Client Hub Canvas.canvas",
     "Materials/Banners/toledo.jpg",
