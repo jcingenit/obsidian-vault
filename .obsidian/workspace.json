@@ -29,24 +29,22 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "CHI FREELANCE"
+                "path": "CH FL GUIDE"
               },
               "icon": "lucide-file",
-              "title": "CHI FREELANCE"
+              "title": "CH FL GUIDE"
             }
           },
           {
-            "id": "9806b5c2d9dd2aa2",
+            "id": "a9e7a151675610af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "_TimeTracker.md",
-                "mode": "source",
-                "source": false
+                "path": "Leads"
               },
               "icon": "lucide-file",
-              "title": "_TimeTracker"
+              "title": "Leads"
             }
           }
         ],
@@ -236,37 +234,38 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6f7dd39e013d57b5",
+  "active": "a9e7a151675610af",
   "lastOpenFiles": [
+    "Leads/Leads.md",
+    "Leads",
+    "CH FL GUIDE/CH FL GUIDE.md",
+    "CH FL GUIDE/Lead Development.md",
     "Untitled.base",
     "_TimeTracker.md",
-    "CHI FREELANCE/CHI FREELANCE.md",
     "Freelance/Freelance.md",
-    "CHI FREELANCE/Metrics to Track & Goals.md",
-    "CHI FREELANCE/Client Process.md",
-    "CHI FREELANCE/90 Day Plan.md",
-    "CHI FREELANCE/Positioning.md",
-    "CHI FREELANCE/Contract.md",
-    "CHI FREELANCE/Proposal.md",
-    "CHI FREELANCE/Pricing Strategies.md",
-    "CHI FREELANCE/Outreach.md",
-    "CHI FREELANCE/Free Audit.md",
-    "CHI FREELANCE/Lead Development.md",
+    "CH FL GUIDE/Metrics to Track & Goals.md",
+    "CH FL GUIDE/Client Process.md",
+    "CH FL GUIDE/90 Day Plan.md",
+    "CH FL GUIDE/Positioning.md",
+    "CH FL GUIDE/Contract.md",
+    "CH FL GUIDE/Proposal.md",
+    "CH FL GUIDE/Pricing Strategies.md",
+    "CH FL GUIDE/Outreach.md",
+    "CH FL GUIDE/Free Audit.md",
     "CHI FREELANCE/Leads.md",
-    "CHI FREELANCE/Freelance Site.md",
-    "CHI FREELANCE/Service Packages.md",
+    "CH FL GUIDE/Freelance Site.md",
+    "CH FL GUIDE/Service Packages.md",
     "Vault.md",
-    "CHI FREELANCE/Target Markets.md",
+    "CH FL GUIDE/Target Markets.md",
     "Freelance/Untitled.md",
     "CHI FREELANCE/CHICAGO FREELANCE.md",
-    "CHI FREELANCE",
+    "CH FL GUIDE",
     "Personal/Personal.md",
     "SP 26/SP 26.md",
     "SP 26/_HW.csv",
     "Tags",
     "SP 26/FR 424/FR 424.md",
     "SP 26/FR 424/4-17.md",
-    "SP 26/SPAN 415/Examen2 Practico.md",
     "Obsidian",
     "3",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
@@ -280,8 +279,6 @@
     "SP 26/MGMT 361/Images/GanttChart.png",
     "SP 26/SPAN 415/20260130 SPAN415 - Tono y registro.pdf",
     "SP 26/SPAN 415/20260128 SPAN415 - Pronombres.pdf",
-    "SP 26/SPAN 415/20260123 SPAN415 - Falsos cognados.pdf",
-    "SP 26/SPAN 415/20260121 SPAN415 - Equivalentes de TO BE.pdf",
     "Freelance/PE Project Hub/02_Strategy-PE/Branding-PE/PE - Logo Blue.png",
     "Olive Branch Studio/Clients/PE-prelim/_Client Hub Canvas.canvas",
     "Materials/Banners/toledo.jpg",
