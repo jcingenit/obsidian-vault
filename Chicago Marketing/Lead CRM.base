@@ -4,3 +4,12 @@ views:
     filters:
       and:
         - file.tags.contains("contact")
+        - file.hasLink("Chicago Marketing/Leads/Leads")
+    order:
+      - file.name
+      - Email
+      - Phone
+      - Name
+      - Last-Contact
+      - Follow-Up
+      - Website

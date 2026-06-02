@@ -1,0 +1,13 @@
+Contents:
+- Scope of work
+- Timeline
+- Payment schedule
+- Revision limits
+- Late payment terms
+- Ownership terms
+- Cancellation terms
+- Client responsibilities
+- What happens if client delays feedback
+- Maintenance terms
+- Hosting/domain responsibility
+- Portfolio usage rights

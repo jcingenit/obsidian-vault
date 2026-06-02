@@ -1,9 +1,5 @@
-# 13. Proposal structure
 
-Every proposal should be simple.
-
-## Proposal sections
-
+Proposal sections
 1. Client goal
 2. Current website problem
 3. Recommended solution

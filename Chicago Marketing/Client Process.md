@@ -1,9 +1,3 @@
-# 15. Client process
-
-A polished process makes you seem more experienced.
-
-## Step-by-step client workflow
-
 ### Step 1: Discovery call
 
 Ask:

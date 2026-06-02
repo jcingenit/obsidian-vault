@@ -6,7 +6,6 @@
       {
         "id": "2ebe7bb38f00b9cb",
         "type": "tabs",
-        "dimension": 54.56656346749226,
         "children": [
           {
             "id": "94ca95eae73a7b17",
@@ -25,87 +24,22 @@
             }
           },
           {
-            "id": "42ce92fd4d65fcd8",
+            "id": "b419d7f737e1fe7a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "mk-space",
+              "type": "bases",
               "state": {
-                "path": "Chicago Marketing"
+                "file": "Chicago Marketing/Lead CRM.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Chicago Marketing"
-            }
-          },
-          {
-            "id": "fbdda4b02c093e78",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Chicago Marketing"
-              },
-              "icon": "lucide-file",
-              "title": "Chicago Marketing"
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Lead CRM"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "f035e78c7f27a09e",
-        "type": "split",
-        "dimension": 45.433436532507734,
-        "children": [
-          {
-            "id": "d45588c9defe37fc",
-            "type": "tabs",
-            "dimension": 64.4607843137255,
-            "children": [
-              {
-                "id": "b8fb1fa3b89b1a67",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "FREELANCE GUIDE/Freelance Site.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Freelance Site"
-                }
-              }
-            ]
-          },
-          {
-            "id": "8c9d0a4cecaa608a",
-            "type": "tabs",
-            "dimension": 35.53921568627451,
-            "children": [
-              {
-                "id": "e3015315a34b72ad",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,17 +225,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e6f70124dc9b4ff6",
+  "active": "b419d7f737e1fe7a",
   "lastOpenFiles": [
-    "FREELANCE GUIDE/Freelance Site.md",
-    "Chicago Marketing/Service Packages.md",
     "Chicago Marketing/Chicago Marketing.md",
+    "Projects/BOM_TimeTracker.md",
+    "Chicago Marketing/Client Process.md",
     "FREELANCE GUIDE/FREELANCE GUIDE.md",
+    "FREELANCE GUIDE/Client Process.md",
+    "Chicago Marketing/Contract Guide.md",
+    "FREELANCE GUIDE/Contract.md",
+    "FREELANCE GUIDE/Proposal.md",
+    "Chicago Marketing/Proposal Guide.md",
+    "FREELANCE GUIDE/Outreach.md",
+    "FREELANCE GUIDE/Pricing Strategies.md",
+    "FREELANCE GUIDE/Freelance Site.md",
+    "FREELANCE GUIDE/Lead Development.md",
+    "Chicago Marketing/Directories.md",
+    "BOM Project Hub.md",
+    "Projects/Projects.md",
+    "Chicago Marketing/Service Packages.md",
     "FREELANCE GUIDE/Positioning.md",
     "Vault.md",
     "Chicago Marketing/Email Examples.md",
-    "Projects/Projects.md",
-    "Projects/BOM_TimeTracker.md",
     "Templates/Templates.md",
     "Chicago Marketing/Lead CRM.base",
     "Chicago Marketing/Lead CRM.md",
@@ -310,21 +255,10 @@
     "Chicago Marketing/Leads/NIR Beauty.md",
     "Chicago Marketing/Leads/Brent Art.md",
     "Chicago Marketing/Leads/Ayla Photo & Media.md",
-    "Chicago Marketing/Leads/Ballet Folklorico.md",
-    "Chicago Marketing/Leads/Casa Glam Spa.md",
-    "Templates/Leads Template/Leads Template.md",
-    "CH Leads/Template.md",
     "Tags/#contact",
     "Tags",
     "Templates/Leads Template",
     "Templates",
-    "Freelance/AIP Project Hub/AIP Project Hub.md",
-    "Freelance/WMV Project Hub/WMV Project Hub.md",
-    "Freelance/WMV Project Hub/00_Admin-WMV.md",
-    "Freelance/FO-PFM Project Hub/FO-PFM Project Hub.md",
-    "Freelance/BOM Project Hub/BOM Project Hub.md",
-    "Freelance/BOM Project Hub/Proposal-BOM.md",
-    "Freelance/BOM Project Hub/03_Execution-BOM/03_Execution-BOM.md",
     "Templates/Leads Template",
     "Chicago Marketing/Leads",
     "FREELANCE GUIDE",
