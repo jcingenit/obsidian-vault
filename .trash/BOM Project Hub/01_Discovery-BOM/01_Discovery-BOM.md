@@ -1,5 +1,3 @@
-[[Assets-BOM]]
-
 ## Discovery Meeting
 - 4 Rental Properties within same house
 - Top Rated on AirBnB & Vrbo

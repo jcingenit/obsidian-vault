@@ -13,10 +13,6 @@ color: var(--mk-color-blue)
 | End             |                           |
 | Billing Model   | Project-Based             |
 | Billed Amount   |                           |
-[[00_Admin-FO-PFM]]
-[[01_Discovery-FO-PFM]]
-[[02_Strategy-FO-PFM]]
-[[03_Execution-FO-PFM]]
 
 ## Objectives
 

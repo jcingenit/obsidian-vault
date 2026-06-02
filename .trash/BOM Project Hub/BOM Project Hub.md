@@ -42,11 +42,6 @@ Secondary Goal
 | [AirBnB](https://www.airbnb.com/rooms/1329833636503603455?source_impression_id=p3_1764788786_P3JpXLcVn4iJn605) |
 | [Vrbo](https://www.vrbo.com/en-nz/holiday-accommodation/p4508972vb)                                            |
 
-## Key Links
-- [[Proposal-BOM]]
-- [[Contract-BOM]]
-- [[Invoices-BOM]]
-- Drive Folder
 
 ## Quick Notes
 

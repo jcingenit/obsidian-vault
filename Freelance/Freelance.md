@@ -10,18 +10,18 @@ banner_y: "67.5"
 | [Squarespace](https://account.squarespace.com/)        |                                                                                                                                          |                                                                                                                                                | [Cofolios](https://www.cofolios.com/)                   |
 | [GitHub](https://github.com/jcingenit/)                |                                                                                                                                          |                                                                                                                                                | [Once UI](https://once-ui.com/)                         |
 
-| Project Hub            | Link                                                           | Status     |
-| ---------------------- | -------------------------------------------------------------- | ---------- |
-| [[BOM Project Hub]]    | [Website](https://www.thebirdhouseonmeridian.com/)             | 1_Active   |
-| [[WP Project Hub]]     | [Website](https://visitwolfpark.org/)                          | 1_Active   |
-| [[BLD Project Hub]]    | [Website](https://phpstack-1442546-5965275.cloudwaysapps.com/) | 1_Active   |
-| [[AIP Project Hub]]    | [Website](https://aiandphilanthropy.org/)                      | 2_Update   |
-| [[DUP Project Hub]]    | [Website](https://dupurdue.org/)                               | 2_Update   |
-| [[KBK Project Hub]]    | [Website](https://kozybykylie.com/)                            | 2_Update   |
-| [[ODC Project Hub]]    | [Website](https:/ourdisneycondo.com/)                          | 2_Update   |
-| [[BA Project Hub]]     | [Website](https://boilermakeralliance.com/)                    | 3_Inactive |
-| [[FO-PFM Project Hub]] | Hub                                                            | 3_Inactive |
-| [[RLS Project Hub]]    | Hub                                                            | 3_Inactive |
-| [[WMV Project Hub]]    | Hub                                                            | 3_Inactive |
-| [[PE Project Hub]]     | [Website](https://www.planeenglishsim.com/)                    | 4_Limbo    |
+| Project Hub               | Link                                                           |
+| ------------------------- | -------------------------------------------------------------- |
+| Birdhouse on Meridian     | [Website](https://www.thebirdhouseonmeridian.com/)             |
+| Wolf Park                 | [Website](https://visitwolfpark.org/)                          |
+| Boiler Line Design        | [Website](https://phpstack-1442546-5965275.cloudwaysapps.com/) |
+| Applied AI & Philanthropy | [Website](https://aiandphilanthropy.org/)                      |
+| Delta Upsilon Purdue      | [Website](https://dupurdue.org/)                               |
+| Kozy by Kylie             | [Website](https://kozybykylie.com/)                            |
+| Our Disney Condo          | [Website](https:/ourdisneycondo.com/)                          |
+| Boilermaker Alliance      | [Website](https://boilermakeralliance.com/)                    |
+| Flight Optimal - PFM      | Hub                                                            |
+| Reliance Label Solutions  | Hub                                                            |
+| Well Made Vintage         | Hub                                                            |
+| Plane English             | [Website](https://www.planeenglishsim.com/)                    |
 

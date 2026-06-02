@@ -29,26 +29,24 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "CH FL GUIDE"
+                "path": "Freelance"
               },
               "icon": "lucide-file",
-              "title": "CH FL GUIDE"
+              "title": "Freelance"
             }
           },
           {
-            "id": "a9e7a151675610af",
+            "id": "e3015315a34b72ad",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Leads"
-              },
-              "icon": "lucide-file",
-              "title": "Leads"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,38 +232,40 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a9e7a151675610af",
+  "active": "32ce873da16f11ce",
   "lastOpenFiles": [
-    "Leads/Leads.md",
-    "Leads",
+    "Freelance/Freelance.md",
+    "Freelance/AIP Project Hub/AIP Project Hub.md",
+    "Freelance/WMV Project Hub/WMV Project Hub.md",
+    "Freelance/WMV Project Hub/00_Admin-WMV.md",
+    "Freelance/FO-PFM Project Hub/FO-PFM Project Hub.md",
+    "Freelance/BOM Project Hub/BOM Project Hub.md",
+    "Freelance/BOM Project Hub/Proposal-BOM.md",
+    "Freelance/BOM Project Hub/03_Execution-BOM/03_Execution-BOM.md",
+    "Freelance/BOM Project Hub/02_Strategy-BOM/02_Strategy-BOM.md",
+    "Freelance/BOM Project Hub/01_Discovery-BOM/01_Discovery-BOM.md",
+    "Freelance/BOM Project Hub/00_Admin-BOM/00_Admin-BOM.md",
+    "CH Leads/Brent Art LLC/Brent Art LLC.md",
+    "CH Leads/Brent Art LLC/[[]].md",
+    "CH Leads/Brent Art LLC",
+    "CH Leads/CH Leads.md",
+    "CH FL GUIDE/Proposal.md",
+    "Properties.md",
+    "CH Leads/Template.md",
+    "CH Leads",
     "CH FL GUIDE/CH FL GUIDE.md",
     "CH FL GUIDE/Lead Development.md",
     "Untitled.base",
     "_TimeTracker.md",
-    "Freelance/Freelance.md",
     "CH FL GUIDE/Metrics to Track & Goals.md",
     "CH FL GUIDE/Client Process.md",
     "CH FL GUIDE/90 Day Plan.md",
     "CH FL GUIDE/Positioning.md",
     "CH FL GUIDE/Contract.md",
-    "CH FL GUIDE/Proposal.md",
     "CH FL GUIDE/Pricing Strategies.md",
-    "CH FL GUIDE/Outreach.md",
-    "CH FL GUIDE/Free Audit.md",
-    "CHI FREELANCE/Leads.md",
-    "CH FL GUIDE/Freelance Site.md",
-    "CH FL GUIDE/Service Packages.md",
-    "Vault.md",
-    "CH FL GUIDE/Target Markets.md",
-    "Freelance/Untitled.md",
-    "CHI FREELANCE/CHICAGO FREELANCE.md",
     "CH FL GUIDE",
-    "Personal/Personal.md",
-    "SP 26/SP 26.md",
     "SP 26/_HW.csv",
     "Tags",
-    "SP 26/FR 424/FR 424.md",
-    "SP 26/FR 424/4-17.md",
     "Obsidian",
     "3",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
@@ -278,7 +278,6 @@
     "SP 26/MGMT 361/Images/GanttChart.png",
     "SP 26/MGMT 361/Images/GanttChart.png",
     "SP 26/SPAN 415/20260130 SPAN415 - Tono y registro.pdf",
-    "SP 26/SPAN 415/20260128 SPAN415 - Pronombres.pdf",
     "Freelance/PE Project Hub/02_Strategy-PE/Branding-PE/PE - Logo Blue.png",
     "Olive Branch Studio/Clients/PE-prelim/_Client Hub Canvas.canvas",
     "Materials/Banners/toledo.jpg",
