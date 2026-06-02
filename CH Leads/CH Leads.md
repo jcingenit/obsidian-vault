@@ -1,8 +1,5 @@
-[[Brent Art LLC]]
+[[Brent Art]]
 [[Casa Glam Spa]]
 [[NIR Beauty]]
 [[Ayla Photo & Media]]
 [[Ballet Folklorico]]
-
-
-[[Template]]

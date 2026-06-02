@@ -29,10 +29,34 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Freelance"
+                "path": "Templates"
               },
               "icon": "lucide-file",
-              "title": "Freelance"
+              "title": "Templates"
+            }
+          },
+          {
+            "id": "b8fb1fa3b89b1a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CH Leads/Ayla Photo & Media.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ayla Photo & Media"
             }
           },
           {
@@ -46,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,8 +256,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "32ce873da16f11ce",
+  "active": "b8fb1fa3b89b1a67",
   "lastOpenFiles": [
+    "CH Leads/NIR Beauty.md",
+    "CH Leads/Casa Glam Spa.md",
+    "CH Leads/Brent Art.md",
+    "Templates/Leads Template/Leads Template.md",
+    "CH Leads/CH Leads.md",
+    "CH Leads/Ballet Folklorico.md",
+    "CH Leads/Template.md",
+    "CH Leads/Ayla Photo & Media.md",
+    "Templates/Templates.md",
+    "_TimeTracker.md",
+    "Tags/#contact",
+    "Tags",
+    "Templates/Leads Template",
+    "Templates",
+    "CH FL GUIDE/CH FL GUIDE.md",
     "Freelance/Freelance.md",
     "Freelance/AIP Project Hub/AIP Project Hub.md",
     "Freelance/WMV Project Hub/WMV Project Hub.md",
@@ -245,39 +284,24 @@
     "Freelance/BOM Project Hub/02_Strategy-BOM/02_Strategy-BOM.md",
     "Freelance/BOM Project Hub/01_Discovery-BOM/01_Discovery-BOM.md",
     "Freelance/BOM Project Hub/00_Admin-BOM/00_Admin-BOM.md",
-    "CH Leads/Brent Art LLC/Brent Art LLC.md",
     "CH Leads/Brent Art LLC/[[]].md",
-    "CH Leads/Brent Art LLC",
-    "CH Leads/CH Leads.md",
+    "Templates/Leads Template",
     "CH FL GUIDE/Proposal.md",
     "Properties.md",
-    "CH Leads/Template.md",
     "CH Leads",
-    "CH FL GUIDE/CH FL GUIDE.md",
     "CH FL GUIDE/Lead Development.md",
     "Untitled.base",
-    "_TimeTracker.md",
-    "CH FL GUIDE/Metrics to Track & Goals.md",
-    "CH FL GUIDE/Client Process.md",
-    "CH FL GUIDE/90 Day Plan.md",
-    "CH FL GUIDE/Positioning.md",
-    "CH FL GUIDE/Contract.md",
-    "CH FL GUIDE/Pricing Strategies.md",
     "CH FL GUIDE",
     "SP 26/_HW.csv",
-    "Tags",
     "Obsidian",
-    "3",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
     "SP 26/MGMT 361/Images/LittlesSummary.png",
     "SP 26/MGMT 361/Images/ProcessMeasuresSummary.png",
-    "SP 26/MGMT 361/Images",
     "SP 26/MGMT 361/Images/GanttFlowTime.png",
     "SP 26/MGMT 361/Images/GanttUtilization.png",
     "SP 26/MGMT 361/Images/GanttChart.png",
     "SP 26/MGMT 361/Images/GanttChart.png",
-    "SP 26/SPAN 415/20260130 SPAN415 - Tono y registro.pdf",
     "Freelance/PE Project Hub/02_Strategy-PE/Branding-PE/PE - Logo Blue.png",
     "Olive Branch Studio/Clients/PE-prelim/_Client Hub Canvas.canvas",
     "Materials/Banners/toledo.jpg",
