@@ -6,6 +6,7 @@
       {
         "id": "2ebe7bb38f00b9cb",
         "type": "tabs",
+        "dimension": 54.56656346749226,
         "children": [
           {
             "id": "94ca95eae73a7b17",
@@ -14,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freelance/BOM_TimeTracker.md",
+                "file": "Projects/BOM_TimeTracker.md",
                 "mode": "source",
                 "source": false
               },
@@ -29,42 +30,82 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Templates"
+                "path": "Chicago Marketing"
               },
               "icon": "lucide-file",
-              "title": "Templates"
+              "title": "Chicago Marketing"
             }
           },
           {
-            "id": "b8fb1fa3b89b1a67",
+            "id": "fbdda4b02c093e78",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Freelance/FREELANCE GUIDE"
+                "path": "Chicago Marketing"
               },
               "icon": "lucide-file",
-              "title": "FREELANCE GUIDE"
+              "title": "Chicago Marketing"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "8c9d0a4cecaa608a",
-        "type": "tabs",
+        "id": "f035e78c7f27a09e",
+        "type": "split",
+        "dimension": 45.433436532507734,
         "children": [
           {
-            "id": "e3015315a34b72ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+            "id": "d45588c9defe37fc",
+            "type": "tabs",
+            "dimension": 64.4607843137255,
+            "children": [
+              {
+                "id": "b8fb1fa3b89b1a67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FREELANCE GUIDE/Freelance Site.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Freelance Site"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8c9d0a4cecaa608a",
+            "type": "tabs",
+            "dimension": 35.53921568627451,
+            "children": [
+              {
+                "id": "e3015315a34b72ad",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -250,12 +291,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6f7dd39e013d57b5",
+  "active": "e6f70124dc9b4ff6",
   "lastOpenFiles": [
-    "Freelance/FREELANCE GUIDE/FREELANCE GUIDE.md",
-    "Freelance/Freelance.md",
+    "FREELANCE GUIDE/Freelance Site.md",
+    "Chicago Marketing/Service Packages.md",
     "Chicago Marketing/Chicago Marketing.md",
-    "Freelance/BOM_TimeTracker.md",
+    "FREELANCE GUIDE/FREELANCE GUIDE.md",
+    "FREELANCE GUIDE/Positioning.md",
+    "Vault.md",
+    "Chicago Marketing/Email Examples.md",
+    "Projects/Projects.md",
+    "Projects/BOM_TimeTracker.md",
     "Templates/Templates.md",
     "Chicago Marketing/Lead CRM.base",
     "Chicago Marketing/Lead CRM.md",
@@ -279,13 +325,9 @@
     "Freelance/BOM Project Hub/BOM Project Hub.md",
     "Freelance/BOM Project Hub/Proposal-BOM.md",
     "Freelance/BOM Project Hub/03_Execution-BOM/03_Execution-BOM.md",
-    "Freelance/BOM Project Hub/02_Strategy-BOM/02_Strategy-BOM.md",
-    "Freelance/BOM Project Hub/01_Discovery-BOM/01_Discovery-BOM.md",
-    "Freelance/BOM Project Hub/00_Admin-BOM/00_Admin-BOM.md",
-    "CH Leads/Brent Art LLC/[[]].md",
     "Templates/Leads Template",
     "Chicago Marketing/Leads",
-    "Freelance/FREELANCE GUIDE",
+    "FREELANCE GUIDE",
     "SP 26/_HW.csv",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",

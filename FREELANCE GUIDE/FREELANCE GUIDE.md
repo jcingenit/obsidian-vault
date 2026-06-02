@@ -1,8 +1,10 @@
+---
+color: var(--mk-color-red)
+---
 [[90 Day Plan]]
 
 [[Positioning]]
 [[Target Markets]]
-- **Wellness / fitness / personal services**
 [[Service Packages]]
 
 [[Freelance Site]]
