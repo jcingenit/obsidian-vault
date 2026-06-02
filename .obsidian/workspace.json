@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TimeTracker.md",
+                "file": "Freelance/BOM_TimeTracker.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "_TimeTracker"
+              "title": "BOM_TimeTracker"
             }
           },
           {
@@ -39,26 +39,21 @@
             "id": "b8fb1fa3b89b1a67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "CH Leads/Ayla Photo & Media.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "Freelance/FREELANCE GUIDE"
               },
               "icon": "lucide-file",
-              "title": "Ayla Photo & Media"
+              "title": "FREELANCE GUIDE"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8c9d0a4cecaa608a",
+        "type": "tabs",
+        "children": [
           {
             "id": "e3015315a34b72ad",
             "type": "leaf",
@@ -69,8 +64,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,24 +250,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b8fb1fa3b89b1a67",
+  "active": "6f7dd39e013d57b5",
   "lastOpenFiles": [
-    "CH Leads/NIR Beauty.md",
-    "CH Leads/Casa Glam Spa.md",
-    "CH Leads/Brent Art.md",
-    "Templates/Leads Template/Leads Template.md",
-    "CH Leads/CH Leads.md",
-    "CH Leads/Ballet Folklorico.md",
-    "CH Leads/Template.md",
-    "CH Leads/Ayla Photo & Media.md",
+    "Freelance/FREELANCE GUIDE/FREELANCE GUIDE.md",
+    "Freelance/Freelance.md",
+    "Chicago Marketing/Chicago Marketing.md",
+    "Freelance/BOM_TimeTracker.md",
     "Templates/Templates.md",
-    "_TimeTracker.md",
+    "Chicago Marketing/Lead CRM.base",
+    "Chicago Marketing/Lead CRM.md",
+    "Chicago Marketing/Leads/Leads.md",
+    "Chicago Marketing",
+    "Chicago Marketing/Leads/NIR Beauty.md",
+    "Chicago Marketing/Leads/Brent Art.md",
+    "Chicago Marketing/Leads/Ayla Photo & Media.md",
+    "Chicago Marketing/Leads/Ballet Folklorico.md",
+    "Chicago Marketing/Leads/Casa Glam Spa.md",
+    "Templates/Leads Template/Leads Template.md",
+    "CH Leads/Template.md",
     "Tags/#contact",
     "Tags",
     "Templates/Leads Template",
     "Templates",
-    "CH FL GUIDE/CH FL GUIDE.md",
-    "Freelance/Freelance.md",
     "Freelance/AIP Project Hub/AIP Project Hub.md",
     "Freelance/WMV Project Hub/WMV Project Hub.md",
     "Freelance/WMV Project Hub/00_Admin-WMV.md",
@@ -286,14 +284,9 @@
     "Freelance/BOM Project Hub/00_Admin-BOM/00_Admin-BOM.md",
     "CH Leads/Brent Art LLC/[[]].md",
     "Templates/Leads Template",
-    "CH FL GUIDE/Proposal.md",
-    "Properties.md",
-    "CH Leads",
-    "CH FL GUIDE/Lead Development.md",
-    "Untitled.base",
-    "CH FL GUIDE",
+    "Chicago Marketing/Leads",
+    "Freelance/FREELANCE GUIDE",
     "SP 26/_HW.csv",
-    "Obsidian",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
     "SP 26/MGMT 361/Images/LittlesSummary.png",
