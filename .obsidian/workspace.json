@@ -38,8 +38,7 @@
               "title": "Lead CRM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +224,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b419d7f737e1fe7a",
+  "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
+    "Chicago Marketing/Lead CRM.base",
+    "Chicago Marketing/Leads/Leads.md",
     "Chicago Marketing/Chicago Marketing.md",
     "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Client Process.md",
@@ -248,13 +249,10 @@
     "Vault.md",
     "Chicago Marketing/Email Examples.md",
     "Templates/Templates.md",
-    "Chicago Marketing/Lead CRM.base",
     "Chicago Marketing/Lead CRM.md",
-    "Chicago Marketing/Leads/Leads.md",
     "Chicago Marketing",
     "Chicago Marketing/Leads/NIR Beauty.md",
     "Chicago Marketing/Leads/Brent Art.md",
-    "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Tags/#contact",
     "Tags",
     "Templates/Leads Template",
