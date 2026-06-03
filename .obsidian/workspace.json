@@ -38,7 +38,8 @@
               "title": "Lead CRM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,12 +225,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "b419d7f737e1fe7a",
   "lastOpenFiles": [
     "Chicago Marketing/Lead CRM.base",
+    "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Leads/Leads.md",
     "Chicago Marketing/Chicago Marketing.md",
-    "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Client Process.md",
     "FREELANCE GUIDE/FREELANCE GUIDE.md",
     "FREELANCE GUIDE/Client Process.md",
