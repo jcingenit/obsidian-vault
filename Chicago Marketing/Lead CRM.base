@@ -13,3 +13,6 @@ views:
       - Last-Contact
       - Follow-Up
       - Website
+    sort:
+      - property: Email
+        direction: ASC
