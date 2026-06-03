@@ -37,9 +37,21 @@
               "icon": "lucide-table",
               "title": "Lead CRM"
             }
+          },
+          {
+            "id": "1ae59feb7f8f470a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Chicago Marketing/Leads"
+              },
+              "icon": "lucide-file",
+              "title": "Leads"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +237,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b419d7f737e1fe7a",
+  "active": "13252983eca22793",
   "lastOpenFiles": [
-    "Chicago Marketing/Lead CRM.base",
-    "Projects/BOM_TimeTracker.md",
+    "Chicago Marketing/Service Packages.md",
+    "Chicago Marketing/Email Examples.md",
+    "Chicago Marketing/Directories.md",
     "Chicago Marketing/Leads/Leads.md",
+    "Chicago Marketing/Lead CRM.base",
+    "Templates/Templates.md",
+    "Templates/Leads Template/Leads Template.md",
+    "Templates/Leads Template.md",
+    "Chicago Marketing/Leads/Ayla Photo & Media.md",
+    "Chicago Marketing/Untitled.md",
+    "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing/Client Process.md",
     "FREELANCE GUIDE/FREELANCE GUIDE.md",
@@ -242,18 +262,11 @@
     "FREELANCE GUIDE/Pricing Strategies.md",
     "FREELANCE GUIDE/Freelance Site.md",
     "FREELANCE GUIDE/Lead Development.md",
-    "Chicago Marketing/Directories.md",
     "BOM Project Hub.md",
     "Projects/Projects.md",
-    "Chicago Marketing/Service Packages.md",
     "FREELANCE GUIDE/Positioning.md",
     "Vault.md",
-    "Chicago Marketing/Email Examples.md",
-    "Templates/Templates.md",
-    "Chicago Marketing/Lead CRM.md",
     "Chicago Marketing",
-    "Chicago Marketing/Leads/NIR Beauty.md",
-    "Chicago Marketing/Leads/Brent Art.md",
     "Tags/#contact",
     "Tags",
     "Templates/Leads Template",

@@ -6,3 +6,6 @@ color: var(--mk-color-orange)
 [[NIR Beauty]]
 [[Ayla Photo & Media]]
 [[Ballet Folklorico]]
+[[Innovative Med Spa]]
+
+
