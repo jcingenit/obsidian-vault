@@ -6,6 +6,13 @@ color: var(--mk-color-orange)
 [[NIR Beauty]]
 [[Ayla Photo & Media]]
 [[Ballet Folklorico]]
-[[Innovative Med Spa]]
+[[CatNap from the Heart]]
+[[Jackie Imagen Spa]]
+[[Jeffery Walker Jr - Personal Trainer]]
+[[Harmony House for Cats]]
+[[Nuvita Med Spa]]
+[[Uptown Fitness IL]]
+
+
 
 
