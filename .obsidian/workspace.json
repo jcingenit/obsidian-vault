@@ -37,22 +37,8 @@
               "icon": "lucide-table",
               "title": "Lead CRM"
             }
-          },
-          {
-            "id": "1ae59feb7f8f470a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Chicago Marketing/Lead CRM.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Lead CRM"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,10 +224,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1ae59feb7f8f470a",
+  "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
-    "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Chicago Marketing/Lead CRM.base",
+    "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Templates/Leads Template.md",
     "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Chicago Marketing/Leads/Leads.md",
