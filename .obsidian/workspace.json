@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "21d0241b86534492",
+            "id": "ed6b1579891c4f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicago Marketing/Leads/Email - CGS.md",
+                "file": "Chicago Marketing/Leads/Email - NIRB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,59 +59,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Email - CGS"
-            }
-          },
-          {
-            "id": "84fbdd3abc4b8a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chicago Marketing/Leads/Email - BF.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Email - BF"
-            }
-          },
-          {
-            "id": "8d83c549bef101ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chicago Marketing/Leads/Email - BA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Email - BA"
+              "title": "Email - NIRB"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,16 +249,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8d83c549bef101ca",
+  "active": "ed6b1579891c4f2f",
   "lastOpenFiles": [
-    "Chicago Marketing/Leads/Brent Art.md",
-    "Chicago Marketing/Leads/Email - BA.md",
-    "Chicago Marketing/Lead CRM.base",
-    "Chicago Marketing/Leads/Email - BF.md",
     "Chicago Marketing/Leads/Email - CGS.md",
+    "Chicago Marketing/Leads/Casa Glam Spa.md",
+    "Chicago Marketing/Lead CRM.base",
+    "Chicago Marketing/Leads/Email - NIRB.md",
+    "Chicago Marketing/Leads/NIR Beauty.md",
+    "Chicago Marketing/Leads/Email - BRA.md",
+    "Chicago Marketing/Leads/Email - CNFTH.md",
+    "Chicago Marketing/Leads/Brent Art.md",
+    "Chicago Marketing/Leads/CatNap from the Heart.md",
+    "Chicago Marketing/Leads/Email - BF.md",
     "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Chicago Marketing/Leads/Nuvita Med Spa.md",
-    "Chicago Marketing/Leads/Casa Glam Spa.md",
     "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Templates/Leads Template.md",
@@ -314,7 +270,6 @@
     "Chicago Marketing/Untitled 1.md",
     "Chicago Marketing/Leads/Innovative Med Spa.md",
     "Chicago Marketing/Leads/Btone Fitness.md",
-    "Chicago Marketing/Leads/CatNap from the Heart.md",
     "Chicago Marketing/Leads/Jackie Imagen Spa.md",
     "Chicago Marketing/Leads/Jeffery Walker Jr - Personal Trainer.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
@@ -322,10 +277,6 @@
     "Chicago Marketing/Email Examples.md",
     "Templates/Leads Template/Leads Template.md",
     "Templates/Templates.md",
-    "Chicago Marketing/Service Packages.md",
-    "Chicago Marketing/Directories.md",
-    "Chicago Marketing/Untitled.md",
-    "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing",
     "Tags/#contact",
     "Tags",
