@@ -23,6 +23,9 @@ Would you be open to a quick 15-minute call sometime this week?
 Best,  
 Jackson Ingenito
 
+765.729.1159
+jacksoningenito.com
+
 ---
 
 Following up
@@ -48,9 +51,29 @@ I’m not reaching out with a one-size-fits-all approach. I’d mainly like to a
 Would you have 15 minutes this week or early next week for a quick conversation?
 
 Best,  
-Jackson
+Jackson Ingenito
+
+765.729.1159
+jacksoningenito.com
 
 ---
 
 Should I close the loop?
 
+Hi Harmony House team,
+
+I wanted to close the loop here in case now is not the right time.
+
+I reached out because Harmony House has a lot of meaningful work happening through adoptions, volunteer and foster opportunities, donations, events, membership, fundraising, and long-term support programs. With so many different visitor needs, I think even a few focused website and marketing updates could help people find the right information faster and take the next step more confidently.
+
+That could mean helping more people submit an adoption survey, visit during adoption hours, volunteer, foster, donate, become a member, sponsor adoption fees, or support an event.
+
+If improving the website, donation messaging, adoption flow, event promotion, or volunteer/foster outreach is something your team is thinking about, I’d be happy to set up a quick 15-minute call and learn more about what would actually be useful.
+
+If not, no worries at all, I just wanted to respectfully introduce myself and say I admire the work you’re doing for cats and families in Chicago.
+
+Best,  
+Jackson Ingenito
+
+765.729.1159
+jacksoningenito.com

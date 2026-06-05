@@ -37,57 +37,8 @@
               "icon": "lucide-table",
               "title": "Lead CRM"
             }
-          },
-          {
-            "id": "d223b71c5bebbe44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chicago Marketing/Leads/Ayla Photo & Media.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ayla Photo & Media"
-            }
-          },
-          {
-            "id": "00354ae05774ef96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chicago Marketing/Leads/Email - HHFC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Email - HHFC"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +224,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "00354ae05774ef96",
+  "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
-    "Chicago Marketing/Leads/Harmony House for Cats.md",
-    "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Lead CRM.base",
-    "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Chicago Marketing/Leads/Email - AP&M.md",
+    "Projects/BOM_TimeTracker.md",
+    "Chicago Marketing/Leads/Email - HHFC.md",
+    "Chicago Marketing/Leads/Ayla Photo & Media.md",
+    "Chicago Marketing/Leads/Harmony House for Cats.md",
     "Chicago Marketing/Leads/Email - CGS.md",
     "Chicago Marketing/Leads/Casa Glam Spa.md",
     "Chicago Marketing/Leads/Email - NIRB.md",
@@ -291,7 +243,6 @@
     "Chicago Marketing/Leads/Email - BF.md",
     "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Chicago Marketing/Leads/Nuvita Med Spa.md",
-    "Projects/BOM_TimeTracker.md",
     "Templates/Leads Template.md",
     "Chicago Marketing/Leads/Leads.md",
     "Chicago Marketing/Untitled 1.md",
@@ -301,7 +252,6 @@
     "Chicago Marketing/Leads/Jeffery Walker Jr - Personal Trainer.md",
     "Chicago Marketing/Leads/Uptown Fitness IL.md",
     "Chicago Marketing/Email Examples.md",
-    "Templates/Leads Template/Leads Template.md",
     "Chicago Marketing",
     "Tags/#contact",
     "Tags",
