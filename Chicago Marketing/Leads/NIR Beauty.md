@@ -6,7 +6,7 @@ Name:
 Email: contact@nirbeautyshop.com
 Phone: (312) 465-4755
 Address: 1952 N. Pulaski Chicago, Illinois 60639
-Last-Contact:
-Follow-Up:
+Last-Contact: 6/8/26
+Follow-Up: 6/10/26
 ---
 [[Email - NIRB]]

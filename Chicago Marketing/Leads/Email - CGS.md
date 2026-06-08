@@ -1,6 +1,6 @@
 Quick idea for Casa Glam Spa
 
-Hi Casa Glam Spa team,
+Hi team,
 
 My name is Jackson, and I’m a Chicago-based website and marketing freelancer. I came across Casa Glam Spa and really liked how your brand feels personal, welcoming, and community-focused, especially the bilingual English/Spanish experience and the way you position beauty as accessible, client-focused, and stress-free.
 

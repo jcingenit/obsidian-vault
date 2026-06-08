@@ -6,7 +6,7 @@ Name:
 Email: " info@casaglamspa.com"
 Phone: 773.565.4026
 Address: 4304 W Fullerton AVE CHICAGO IL 60639
-Last-Contact:
-Follow-Up:
+Last-Contact: 6/8/26
+Follow-Up: 6/10/26
 ---
 [[Email - CGS]]
