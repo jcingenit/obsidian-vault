@@ -37,8 +37,33 @@
               "icon": "lucide-table",
               "title": "Lead CRM"
             }
+          },
+          {
+            "id": "98f37e905bfee3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Master Set Completion Angle"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,10 +249,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "98f37e905bfee3db",
   "lastOpenFiles": [
-    "Chicago Marketing/Lead CRM.base",
+    "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
+    "MasterSet/Evergreen Emails/Evergreen Emails.md",
+    "MasterSet/Evergreen Emails/Collection Confidence Angle.md",
+    "MasterSet/Evergreen Emails/Serious Collector Angle.md",
+    "MasterSet/Evergreen Emails/Spreadsheet Replacement Angle.md",
+    "MasterSet/Evergreen Emails/Why Upgrade.md",
+    "MasterSet/Evergreen Emails/Built for Collectors Who Want to Stay Organized.md",
+    "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
+    "MasterSet/Evergreen Emails",
+    "MasterSet/Card Limit Pain Point.md",
+    "MasterSet/MasterSet.md",
+    "MasterSet",
+    "Projects/Projects.md",
     "Projects/BOM_TimeTracker.md",
+    "Chicago Marketing/Lead CRM.base",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Email - AP&M.md",
@@ -242,16 +280,6 @@
     "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Chicago Marketing/Leads/Casa Glam Spa.md",
     "Chicago Marketing/Leads/Email - CGS.md",
-    "Projects/Projects.md",
-    "Chicago Marketing/Leads/Nuvita Med Spa.md",
-    "Templates/Leads Template.md",
-    "Chicago Marketing/Leads/Leads.md",
-    "Chicago Marketing/Untitled 1.md",
-    "Chicago Marketing/Leads/Innovative Med Spa.md",
-    "Chicago Marketing/Leads/Btone Fitness.md",
-    "Chicago Marketing/Leads/Jackie Imagen Spa.md",
-    "Chicago Marketing/Leads/Jeffery Walker Jr - Personal Trainer.md",
-    "Chicago Marketing/Leads/Uptown Fitness IL.md",
     "Chicago Marketing",
     "Tags/#contact",
     "Tags",
@@ -259,8 +287,6 @@
     "Templates",
     "Templates/Leads Template",
     "Chicago Marketing/Leads",
-    "FREELANCE GUIDE",
-    "SP 26/_HW.csv",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
     "SP 26/MGMT 361/Images/LittlesSummary.png",
