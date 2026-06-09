@@ -5,7 +5,7 @@
 - Your collection deserves better than a spreadsheet
 - There’s an easier way to track your TCG collection
 
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6;">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
   <p>Hey there,</p>
 
   <p>Spreadsheets can work for a while. But once your collection starts growing, they get harder to manage.</p>

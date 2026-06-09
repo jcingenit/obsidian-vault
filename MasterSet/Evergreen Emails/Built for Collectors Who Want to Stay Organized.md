@@ -5,8 +5,7 @@
 - Keep your collection organized
 - Your collection deserves more than a spreadsheet
 
-```html
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6;">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
   <p>Hey there,</p>
 
   <p>Collecting is fun. Keeping everything organized can be the hard part.</p>
@@ -44,4 +43,3 @@
     <a href="{{unsubscribe_url}}" style="color: #6b7280;">Unsubscribe</a>
   </p>
 </div>
-```

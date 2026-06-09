@@ -5,7 +5,7 @@
 - Feel more in control of your collection
 - Build your collection with more confidence
 
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6;">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
   <p>Hey there,</p>
 
   <p>A good collection is not just about how many cards you have. It’s about knowing what you own, what you need, and where your collection is headed.</p>

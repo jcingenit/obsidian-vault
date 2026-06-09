@@ -5,8 +5,7 @@
 - What Premium unlocks
 - Free is a start. Premium is the full collection tool.
 
-```html
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6;">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
   <p>Hey there,</p>
 
   <p>The free version of MasterSet is a great way to start tracking your collection.</p>
@@ -42,4 +41,4 @@
     <a href="{{unsubscribe_url}}" style="color: #6b7280;">Unsubscribe</a>
   </p>
 </div>
-```
+

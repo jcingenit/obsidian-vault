@@ -1,3 +1,6 @@
+---
+color: var(--mk-color-green)
+---
 
 
 | Email                                               | Last Sent |
@@ -9,4 +12,5 @@
 | [[Serious Collector Angle]]                         |           |
 | [[Collection Confidence Angle]]                     |           |
 | [[Master Set Completion Angle]]                     |           |
-|                                                     |           |
+| [[Simple Direct Upgrade Reminder]]                  |           |
+

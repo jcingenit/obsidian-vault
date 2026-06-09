@@ -5,7 +5,7 @@
 - Take your collection more seriously
 - For collectors building something bigger
 
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6;">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
   <p>Hey there,</p>
 
   <p>Every collection starts somewhere.</p>

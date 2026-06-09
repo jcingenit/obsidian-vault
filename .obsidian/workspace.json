@@ -41,29 +41,18 @@
           {
             "id": "98f37e905bfee3db",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "MasterSet"
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Master Set Completion Angle"
+              "title": "MasterSet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,10 +238,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "98f37e905bfee3db",
+  "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
-    "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
+    "MasterSet/MasterSet.md",
     "MasterSet/Evergreen Emails/Evergreen Emails.md",
+    "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
+    "MasterSet/Evergreen Emails/Simple Direct Upgrade Reminder.md",
     "MasterSet/Evergreen Emails/Collection Confidence Angle.md",
     "MasterSet/Evergreen Emails/Serious Collector Angle.md",
     "MasterSet/Evergreen Emails/Spreadsheet Replacement Angle.md",
@@ -261,7 +252,6 @@
     "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
     "MasterSet/Evergreen Emails",
     "MasterSet/Card Limit Pain Point.md",
-    "MasterSet/MasterSet.md",
     "MasterSet",
     "Projects/Projects.md",
     "Projects/BOM_TimeTracker.md",
@@ -279,7 +269,6 @@
     "Chicago Marketing/Leads/Email - BF.md",
     "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Chicago Marketing/Leads/Casa Glam Spa.md",
-    "Chicago Marketing/Leads/Email - CGS.md",
     "Chicago Marketing",
     "Tags/#contact",
     "Tags",

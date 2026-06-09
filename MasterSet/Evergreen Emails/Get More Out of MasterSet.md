@@ -5,8 +5,7 @@
 - Your collection can do more
 - Unlock the full MasterSet experience
 
-```html
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6;">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
   <p>Hey there,</p>
 
   <p>MasterSet is built to help collectors stay organized, track progress, and build better collections without relying on spreadsheets or scattered notes.</p>
@@ -40,4 +39,3 @@
     <a href="{{unsubscribe_url}}" style="color: #6b7280;">Unsubscribe</a>
   </p>
 </div>
-```
