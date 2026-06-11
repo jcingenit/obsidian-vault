@@ -16,7 +16,17 @@
               "state": {
                 "file": "Projects/BOM_TimeTracker.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -106,7 +116,7 @@
             }
           },
           {
-            "id": "6f7dd39e013d57b5",
+            "id": "f70cdd9558c59971",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -240,8 +250,9 @@
   },
   "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
-    "Projects/BOM_TimeTracker.md",
+    "Tags",
     "Chicago Marketing/Lead CRM.base",
+    "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
     "Chicago Marketing/Leads/Email - AP&M.md",
@@ -270,7 +281,6 @@
     "MasterSet",
     "Chicago Marketing",
     "Tags/#contact",
-    "Tags",
     "Templates/Leads Template",
     "Templates",
     "Templates/Leads Template",
