@@ -34,20 +34,6 @@
             }
           },
           {
-            "id": "98f37e905bfee3db",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "MasterSet"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "MasterSet"
-            }
-          },
-          {
             "id": "b419d7f737e1fe7a",
             "type": "leaf",
             "pinned": true,
@@ -60,6 +46,18 @@
               "pinned": true,
               "icon": "lucide-table",
               "title": "Lead CRM"
+            }
+          },
+          {
+            "id": "5a109809f7a83a07",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "MasterSet"
+              },
+              "icon": "lucide-file",
+              "title": "MasterSet"
             }
           }
         ]
@@ -251,7 +249,9 @@
   "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
     "Chicago Marketing/Lead CRM.base",
+    "Vault.md",
     "MasterSet/MasterSet.md",
+    "MasterSet/Evergreen Emails/Evergreen Emails.md",
     "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
@@ -268,7 +268,6 @@
     "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Chicago Marketing/Leads/Email - CGS.md",
     "Chicago Marketing/Leads/Casa Glam Spa.md",
-    "MasterSet/Evergreen Emails/Evergreen Emails.md",
     "Tags",
     "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
     "MasterSet/Evergreen Emails/Simple Direct Upgrade Reminder.md",
@@ -276,7 +275,6 @@
     "MasterSet/Evergreen Emails/Serious Collector Angle.md",
     "MasterSet/Evergreen Emails/Spreadsheet Replacement Angle.md",
     "MasterSet/Evergreen Emails/Why Upgrade.md",
-    "MasterSet/Evergreen Emails/Built for Collectors Who Want to Stay Organized.md",
     "MasterSet/Evergreen Emails",
     "MasterSet",
     "Chicago Marketing",
