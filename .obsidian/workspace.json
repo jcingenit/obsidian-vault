@@ -52,28 +52,15 @@
             "id": "5a109809f7a83a07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "MasterSet"
               },
               "icon": "lucide-file",
-              "title": "Get More Out of MasterSet"
+              "title": "MasterSet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,13 +246,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5a109809f7a83a07",
+  "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
+    "Chicago Marketing/Lead CRM.base",
+    "MasterSet/MasterSet.md",
+    "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
     "MasterSet/Evergreen Emails/Evergreen Emails.md",
     "Projects/BOM_TimeTracker.md",
-    "Chicago Marketing/Lead CRM.base",
     "Vault.md",
-    "MasterSet/MasterSet.md",
     "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
@@ -287,7 +275,6 @@
     "MasterSet/Evergreen Emails/Collection Confidence Angle.md",
     "MasterSet/Evergreen Emails/Serious Collector Angle.md",
     "MasterSet/Evergreen Emails/Spreadsheet Replacement Angle.md",
-    "MasterSet/Evergreen Emails/Why Upgrade.md",
     "MasterSet/Evergreen Emails",
     "MasterSet",
     "Chicago Marketing",
