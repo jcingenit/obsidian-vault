@@ -52,15 +52,28 @@
             "id": "5a109809f7a83a07",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "MasterSet"
+                "file": "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MasterSet"
+              "title": "Get More Out of MasterSet"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,13 +259,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "5a109809f7a83a07",
   "lastOpenFiles": [
+    "MasterSet/Evergreen Emails/Evergreen Emails.md",
+    "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Lead CRM.base",
     "Vault.md",
     "MasterSet/MasterSet.md",
-    "MasterSet/Evergreen Emails/Evergreen Emails.md",
-    "Projects/BOM_TimeTracker.md",
     "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
