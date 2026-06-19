@@ -52,15 +52,76 @@
             "id": "5a109809f7a83a07",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "MasterSet"
+                "file": "MasterSet/FIRSTMONTHFREE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MasterSet"
+              "title": "FIRSTMONTHFREE"
+            }
+          },
+          {
+            "id": "43b59c74e489ca78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MasterSet/Try MasterSet Premium free for your first month.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Try MasterSet Premium free for your first month"
+            }
+          },
+          {
+            "id": "2b901fa3de56e0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MasterSet/See if Premium is right for your collection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "See if Premium is right for your collection"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,13 +307,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "43b59c74e489ca78",
   "lastOpenFiles": [
-    "Chicago Marketing/Lead CRM.base",
+    "MasterSet/See if Premium is right for your collection.md",
+    "MasterSet/Try MasterSet Premium free for your first month.md",
+    "MasterSet/FIRSTMONTHFREE.md",
+    "MasterSet/Promotion Emails.md",
     "MasterSet/MasterSet.md",
-    "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
     "MasterSet/Evergreen Emails/Evergreen Emails.md",
+    "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
     "Projects/BOM_TimeTracker.md",
+    "Chicago Marketing/Lead CRM.base",
     "Vault.md",
     "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
@@ -272,9 +337,6 @@
     "Tags",
     "MasterSet/Evergreen Emails/Master Set Completion Angle.md",
     "MasterSet/Evergreen Emails/Simple Direct Upgrade Reminder.md",
-    "MasterSet/Evergreen Emails/Collection Confidence Angle.md",
-    "MasterSet/Evergreen Emails/Serious Collector Angle.md",
-    "MasterSet/Evergreen Emails/Spreadsheet Replacement Angle.md",
     "MasterSet/Evergreen Emails",
     "MasterSet",
     "Chicago Marketing",
