@@ -5,7 +5,7 @@ color: var(--mk-color-green)
 
 | Email                                               | Last Sent |
 | --------------------------------------------------- | --------- |
-| [[Get More Out of MasterSet]]                       |           |
+| [[Get More Out of MasterSet]]                       | 6/16/2026 |
 | [[Built for Collectors Who Want to Stay Organized]] |           |
 | [[Why Upgrade]]                                     |           |
 | [[Spreadsheet Replacement Angle]]                   |           |

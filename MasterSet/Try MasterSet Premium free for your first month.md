@@ -1,3 +1,8 @@
+**Subject options:**
+- Try MasterSet Premium free for your first month
+- Your first month of Premium is on us
+- Unlock Premium free for 30 days
+
 
 <div style="background-color: #ffffff; margin: 0; padding: 0;">
   <div style="font-family: Arial, Helvetica, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #1f2937; font-size: 16px; line-height: 1.6; background-color: #ffffff;">
@@ -8,7 +13,7 @@
     <p>For a limited time, you can get your <strong>first month of MasterSet Premium free</strong>.</p>
 
     <p>Premium gives you more tools to track, organize, and understand your collection as it grows.</p>
-
+	
     <p><strong>With Premium, you can:</strong></p>
 
     <ul>
@@ -18,7 +23,7 @@
       <li>Keep better track of your master set progress</li>
     </ul>
 
-<p>Use code <strong>FIRSTMONTHFREE</strong> to unlock your first month of Premium free.</p>
+	<p>Use code <strong>FIRSTMONTHFREE</strong> to unlock your first month of Premium free.</p>
 
     <p>Your collection is already growing. Premium helps you manage it with more confidence.</p>
 
