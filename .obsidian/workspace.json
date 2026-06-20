@@ -49,6 +49,32 @@
             }
           },
           {
+            "id": "0da3704a3f5c3be2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/DAI_TimeTracker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DAI_TimeTracker"
+            }
+          },
+          {
             "id": "d8be447acc6b31c9",
             "type": "leaf",
             "state": {
@@ -249,8 +275,10 @@
   "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
     "Chicago Marketing/Lead CRM.base",
-    "Projects/BOM_TimeTracker.md",
     "MasterSet/MasterSet.md",
+    "Projects/DAI_TimeTracker.md",
+    "Projects/BOM_TimeTracker.md",
+    "Projects/Projects.md",
     "MasterSet/Try MasterSet Premium free for your first month.md",
     "MasterSet/FIRSTMONTHFREE.md",
     "MasterSet/Discount Promotion Emails.md",
@@ -272,8 +300,6 @@
     "Chicago Marketing/Leads/Brent Art.md",
     "Chicago Marketing/Leads/Email - BF.md",
     "Chicago Marketing/Leads/Ballet Folklorico.md",
-    "Chicago Marketing/Leads/Email - CGS.md",
-    "Chicago Marketing/Leads/Casa Glam Spa.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
