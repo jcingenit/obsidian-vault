@@ -44,13 +44,13 @@ Create merch for affirmations (shirts? )
 - More than just a planner, something created for trans people to know that they are thought about and supported. There are affirmation planners out there, but we want to speak 
 “What do you want people to do after seeing it?”
 - Learn more about how people can support the community, be affirmed in who they are, check out social medias for resources, provide community resources for trans kids, name change workshops
+
 ### Discuss the music release
 “What is the title?”
 “What is the story behind the song/project?”
 “What assets do you already have?”
 “Do you have cover art, snippets, videos, photos, or behind-the-scenes clips?”
 “What is the main goal: streams, shares, event attendance, followers, or awareness?”
-“Are there collaborators who should be part of the promo?”
 
 ---
 

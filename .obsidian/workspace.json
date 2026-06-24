@@ -90,24 +90,12 @@
             "id": "1f34ea38bd5c6cf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Projects/Dai Minnenger/Brand Ecosystem Map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "Projects/Dai Minnenger"
               },
               "icon": "lucide-file",
-              "title": "Brand Ecosystem Map"
+              "title": "Dai Minnenger"
             }
           },
           {
@@ -323,11 +311,11 @@
   },
   "active": "05ca21c0c3bb59e4",
   "lastOpenFiles": [
+    "Projects/Dai Minnenger/Dai Minnenger.md",
+    "Projects/Dai Minnenger/Week1Meeting-DM.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map.md",
     "TimeTrackers/DAI_TimeTracker.md",
     "Projects/Dai Minnenger/Untitled mindmap.md",
-    "Projects/Dai Minnenger/Dai Minnenger.md",
-    "Projects/Dai Minnenger/Week1Meeting-DM.md",
     "Projects/Dai Minnenger/Untitled.md",
     "Projects/Dai Minnenger",
     "Projects/Projects.md",
