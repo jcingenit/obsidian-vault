@@ -28,13 +28,22 @@ Final strategy handoff
 
  **Sweet Glen’s**
 “How would you describe this in one sentence?”
-- Whole foods / drinks
+- Whole foods / drinks resource to food vendors, knowledge and access to healthier foods and lifestyle. Eating the right things to positively affect health. Story with Crohn's disease. Research-based for vitamins and nutrients.
 “What do you want people to do after seeing it?”
+- Try the drinks, study more on personal nutrition, support small businesses in the community
 
 **Transcend**
-“How would you describe this in one sentence?”
-“What do you want people to do after seeing it?”
+When doing events, **sponsored by Transcend**, 3rd year of being on hormones - food giveaway, clothing swap
 
+Event didn't have success, met a trans man from tik tok - coffee shop in St. Louis
+
+Create content guide for promotions
+Create merch for affirmations (shirts? )
+
+“How would you describe this in one sentence?”
+- More than just a planner, something created for trans people to know that they are thought about and supported. There are affirmation planners out there, but we want to speak 
+“What do you want people to do after seeing it?”
+- Learn more about how people can support the community, be affirmed in who they are, check out social medias for resources, provide community resources for trans kids, name change workshops
 ### Discuss the music release
 “What is the title?”
 “What is the story behind the song/project?”
