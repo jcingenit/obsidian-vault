@@ -32,6 +32,8 @@ Final strategy handoff
 “What do you want people to do after seeing it?”
 - Try the drinks, study more on personal nutrition, support small businesses in the community
 
+monday - thurs 1:30 - 5:30
+
 **Transcend**
 When doing events, **sponsored by Transcend**, 3rd year of being on hormones - food giveaway, clothing swap
 
