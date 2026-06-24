@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/BOM_TimeTracker.md",
+                "file": "TimeTrackers/BOM_TimeTracker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DAI_TimeTracker.md",
+                "file": "TimeTrackers/DAI_TimeTracker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,8 +85,45 @@
               "icon": "lucide-file",
               "title": "MasterSet"
             }
+          },
+          {
+            "id": "1f34ea38bd5c6cf3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Projects"
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "05ca21c0c3bb59e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Week1Meeting-DM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Week1Meeting-DM"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -272,13 +309,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "05ca21c0c3bb59e4",
   "lastOpenFiles": [
-    "Chicago Marketing/Lead CRM.base",
-    "Projects/BOM_TimeTracker.md",
-    "MasterSet/MasterSet.md",
-    "Projects/DAI_TimeTracker.md",
+    "Projects/Dai Minnenger.md",
+    "Projects/Week1Meeting-DM.md",
     "Projects/Projects.md",
+    "TimeTrackers/DAI_TimeTracker.md",
+    "Projects",
+    "TimeTrackers/TimeTrackers.md",
+    "Tags/Tags.md",
+    "Chicago Marketing/Chicago Marketing.md",
+    "TimeTrackers/BOM_TimeTracker.md",
+    "Chicago Marketing/Lead CRM.base",
+    "MasterSet/MasterSet.md",
     "MasterSet/Try MasterSet Premium free for your first month.md",
     "MasterSet/FIRSTMONTHFREE.md",
     "MasterSet/Discount Promotion Emails.md",
@@ -287,7 +330,6 @@
     "MasterSet/Build your next master set with a free month of Premium.md",
     "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
     "Vault.md",
-    "Chicago Marketing/Chicago Marketing.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
     "Chicago Marketing/Leads/Email - AP&M.md",
@@ -297,9 +339,6 @@
     "Chicago Marketing/Leads/Email - CNFTH.md",
     "Chicago Marketing/Leads/CatNap from the Heart.md",
     "Chicago Marketing/Leads/Email - BRA.md",
-    "Chicago Marketing/Leads/Brent Art.md",
-    "Chicago Marketing/Leads/Email - BF.md",
-    "Chicago Marketing/Leads/Ballet Folklorico.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
@@ -308,7 +347,6 @@
     "Templates/Leads Template",
     "Templates",
     "Templates/Leads Template",
-    "Chicago Marketing/Leads",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
     "SP 26/MGMT 361/Images/LittlesSummary.png",
