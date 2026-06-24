@@ -90,12 +90,24 @@
             "id": "1f34ea38bd5c6cf3",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Projects"
+                "file": "Projects/Dai Minnenger/Brand Ecosystem Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "Brand Ecosystem Map"
             }
           },
           {
@@ -104,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Week1Meeting-DM.md",
+                "file": "Projects/Dai Minnenger/Week1Meeting-DM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -311,10 +323,14 @@
   },
   "active": "05ca21c0c3bb59e4",
   "lastOpenFiles": [
-    "Projects/Dai Minnenger.md",
-    "Projects/Week1Meeting-DM.md",
-    "Projects/Projects.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map.md",
     "TimeTrackers/DAI_TimeTracker.md",
+    "Projects/Dai Minnenger/Untitled mindmap.md",
+    "Projects/Dai Minnenger/Dai Minnenger.md",
+    "Projects/Dai Minnenger/Week1Meeting-DM.md",
+    "Projects/Dai Minnenger/Untitled.md",
+    "Projects/Dai Minnenger",
+    "Projects/Projects.md",
     "Projects",
     "TimeTrackers/TimeTrackers.md",
     "Tags/Tags.md",
@@ -336,9 +352,6 @@
     "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Chicago Marketing/Leads/Email - NIRB.md",
     "Chicago Marketing/Leads/NIR Beauty.md",
-    "Chicago Marketing/Leads/Email - CNFTH.md",
-    "Chicago Marketing/Leads/CatNap from the Heart.md",
-    "Chicago Marketing/Leads/Email - BRA.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
@@ -346,7 +359,6 @@
     "Tags/#contact",
     "Templates/Leads Template",
     "Templates",
-    "Templates/Leads Template",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
     "SP 26/MGMT 361/Images/LittlesSummary.png",

@@ -2,7 +2,7 @@
 
 “For this first phase, I want to help organize everything you have going on so the marketing feels clearer, more intentional, and easier to execute. The goal is not to force everything into one lane, but to understand how each project fits together and what needs attention first.”
 
-''These thingsa
+''These things are going to require effort, but I'm here to provide you the plan for everything moving forward
 ### Confirm the scope:
 
 Brand ecosystem map
