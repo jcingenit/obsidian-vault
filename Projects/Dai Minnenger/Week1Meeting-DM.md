@@ -20,19 +20,19 @@ Final strategy handoff
 
 ### Have Dai explain each project in their own words
 
-- DJ services
+**DJ services**
 “How would you describe this in one sentence?”
-“Who is this for?”
+- Eclectic musician, dj producer, music educator, give underrepresented a platform
+“What do you want people to do after seeing it?”
+- Deepen understanding with music and other people, check out catalogue, listening to more, play underground and queer artists, **support the community**, **inspire people to explore and appreciate music**, 
+
+ **Sweet Glen’s**
+“How would you describe this in one sentence?”
+- Whole foods / drinks
 “What do you want people to do after seeing it?”
 
-- Sweet Glen’s
+**Transcend**
 “How would you describe this in one sentence?”
-“Who is this for?”
-“What do you want people to do after seeing it?”
-
-- Transcend
-“How would you describe this in one sentence?”
-“Who is this for?”
 “What do you want people to do after seeing it?”
 
 ### Discuss the music release
