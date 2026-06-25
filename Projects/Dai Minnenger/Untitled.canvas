@@ -1,15 +1,31 @@
 {
 	"nodes":[
-		{"id":"a6982629e4c9592c","type":"text","text":"# Music Services\n","x":60,"y":220,"width":181,"height":50,"color":"6"},
-		{"id":"3e6dd28ac78a7e92","type":"text","text":"# Music Services\n","x":-354,"y":220,"width":181,"height":50,"color":"6"},
-		{"id":"0ac9933e8f218843","type":"text","text":"# Core Theme\nA community-centered creative ecosystem using music, wellness, and affirming resources to help people feel seen, supported, inspired, and connected.","x":-385,"y":-260,"width":329,"height":203},
-		{"id":"0b350b4fcbc15432","type":"text","text":"# Unifying Messaging\nEach project creates access, representation, and care for underrepresented communities through culture, health, education, and self-expression.","x":-25,"y":-260,"width":325,"height":203},
-		{"id":"d712cd58d3853fd9","type":"text","text":"# Dai's Brand Ecosystem","x":-160,"y":60,"width":233,"height":50,"color":"4"}
+		{"id":"0b350b4fcbc15432","type":"text","text":"# Unifying Messaging\nEach project creates access, representation, and care for underrepresented communities through culture, health, education, and self-expression.","x":-620,"y":-70,"width":325,"height":203},
+		{"id":"0ac9933e8f218843","type":"text","text":"# Core Theme\nA community-centered creative ecosystem using music, wellness, and affirming resources to help people feel seen, supported, inspired, and connected.","x":-620,"y":-323,"width":329,"height":203},
+		{"id":"d712cd58d3853fd9","type":"text","text":"# Dai's Brand Ecosystem","x":-200,"y":-120,"width":233,"height":50,"color":"4"},
+		{"id":"a6982629e4c9592c","type":"text","text":"# Music Services\n","x":120,"y":-575,"width":181,"height":50,"color":"6"},
+		{"id":"ec593af446424af0","type":"text","text":"**Key Message**\nMusic is more than entertainment. It is a tool for connection, education, representation, and community-building.","x":340,"y":-720,"width":634,"height":100,"color":"6"},
+		{"id":"72cfb4e3ff91bff5","type":"text","text":"**Audience**\n- Music lovers\n- Queer communities\n- Underground music fans\n- Event organizers\n- Artists and creatives\n- People interested in music education and discovery","x":340,"y":-575,"width":434,"height":260},
+		{"id":"83ed50a6eb424395","type":"text","text":"**Core Purpose**\n- Give underrepresented artists a platform\n- Share underground and queer music\n- Inspire people to explore music more deeply\n- Build community through sound, education, and shared experiences","x":820,"y":-575,"width":400,"height":260},
+		{"id":"17151b951ae241a8","type":"text","text":"### Call to Actions\n- Listen to the catalogue\n- Book DJ services\n- Explore underground and queer artists\n- Attend events\n- Support the community\n- Deepen their understanding of music and other people","x":1248,"y":-575,"width":519,"height":250},
+		{"id":"fe42627b61acb8b4","type":"text","text":"**Content Suggestions**\n- Artist spotlights\n- Queer and underground music recommendations\n- DJ set clips\n- Music education posts\n- Event recaps\n- “Songs you should know” series\n- Behind-the-scenes of production or performance","x":1276,"y":-895,"width":463,"height":275},
+		{"id":"525dd4f2d9309781","type":"text","text":"**Audience**\n- Music lovers\n- Queer communities\n- Underground music fans\n- Event organizers\n- Artists and creatives\n- People interested in music education and discovery","x":340,"y":23,"width":434,"height":260},
+		{"id":"4e86628d0c38f503","type":"text","text":"**Core Purpose**\n- Give underrepresented artists a platform\n- Share underground and queer music\n- Inspire people to explore music more deeply\n- Build community through sound, education, and shared experiences","x":820,"y":23,"width":400,"height":260},
+		{"id":"6d8c196c51bf8ede","type":"text","text":"### Call to Actions\n- Listen to the catalogue\n- Book DJ services\n- Explore underground and queer artists\n- Attend events\n- Support the community\n- Deepen their understanding of music and other people","x":1248,"y":23,"width":519,"height":250},
+		{"id":"6a3d6fa5ef639966","type":"text","text":"**Content Suggestions**\n- Artist spotlights\n- Queer and underground music recommendations\n- DJ set clips\n- Music education posts\n- Event recaps\n- “Songs you should know” series\n- Behind-the-scenes of production or performance","x":1276,"y":-297,"width":463,"height":275},
+		{"id":"db0c2f75408a2b23","type":"text","text":"**Key Message**\nMusic is more than entertainment. It is a tool for connection, education, representation, and community-building.","x":340,"y":-212,"width":634,"height":100,"color":"5"},
+		{"id":"3e6dd28ac78a7e92","type":"text","text":"# Transcend\n","x":120,"y":-72,"width":181,"height":50,"color":"5"}
 	],
 	"edges":[
-		{"id":"aa4523c53f03c3a5","fromNode":"d712cd58d3853fd9","fromSide":"top","toNode":"0ac9933e8f218843","toSide":"bottom"},
-		{"id":"dd5ada0748aea685","fromNode":"d712cd58d3853fd9","fromSide":"top","toNode":"0b350b4fcbc15432","toSide":"bottom"},
-		{"id":"d7b0aea2bcd87079","fromNode":"d712cd58d3853fd9","fromSide":"bottom","toNode":"3e6dd28ac78a7e92","toSide":"top"},
-		{"id":"de1f79f848e44ea3","fromNode":"d712cd58d3853fd9","fromSide":"bottom","toNode":"a6982629e4c9592c","toSide":"top"}
+		{"id":"aeb2fc222f1eafc1","fromNode":"d712cd58d3853fd9","fromSide":"right","toNode":"a6982629e4c9592c","toSide":"left"},
+		{"id":"feb98e6a51427aa9","fromNode":"a6982629e4c9592c","fromSide":"top","toNode":"ec593af446424af0","toSide":"left"},
+		{"id":"7916ab7f65f21106","fromNode":"72cfb4e3ff91bff5","fromSide":"right","toNode":"83ed50a6eb424395","toSide":"left"},
+		{"id":"b2766384945a8f1c","fromNode":"83ed50a6eb424395","fromSide":"right","toNode":"17151b951ae241a8","toSide":"left"},
+		{"id":"cea0c36fa93368de","fromNode":"fe42627b61acb8b4","fromSide":"bottom","toNode":"17151b951ae241a8","toSide":"top"},
+		{"id":"be6dc11f4190b5bc","fromNode":"a6982629e4c9592c","fromSide":"bottom","toNode":"72cfb4e3ff91bff5","toSide":"left"},
+		{"id":"f549dbda4708745e","fromNode":"3e6dd28ac78a7e92","fromSide":"top","toNode":"db0c2f75408a2b23","toSide":"left"},
+		{"id":"1a9f65221b9d5671","fromNode":"525dd4f2d9309781","fromSide":"right","toNode":"4e86628d0c38f503","toSide":"left"},
+		{"id":"4e5e4b6cc3b1972c","fromNode":"4e86628d0c38f503","fromSide":"right","toNode":"6d8c196c51bf8ede","toSide":"left"},
+		{"id":"716dfa4b6123e394","fromNode":"6a3d6fa5ef639966","fromSide":"bottom","toNode":"6d8c196c51bf8ede","toSide":"top"}
 	]
 }
