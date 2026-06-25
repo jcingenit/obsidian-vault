@@ -65,26 +65,54 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "MasterSet"
+                "path": "Projects/Dai Minnenger"
               },
               "icon": "lucide-file",
-              "title": "MasterSet"
+              "title": "Dai Minnenger"
             }
           },
           {
-            "id": "312d3f39c56e6526",
+            "id": "8f583d0f7ee3359c",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Dai Minnenger/Brand Ecosystem Map/Untitled mindmap.md"
+                "file": "Projects/Dai Minnenger/Brand Ecosystem Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "blocks",
-              "title": "Untitled mindmap"
+              "icon": "lucide-file",
+              "title": "Brand Ecosystem Map"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "736f8e662736a026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8153d63002c1b8d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of Brand Ecosystem Map"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,25 +298,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0da3704a3f5c3be2",
+  "active": "a8153d63002c1b8d",
   "lastOpenFiles": [
+    "Projects/Dai Minnenger/Brand Ecosystem Map.md",
+    "Projects/Dai Minnenger/Dai Minnenger.md",
+    "Projects/Dai Minnenger/Week1Meeting-DM.md",
+    "Projects/Dai Minnenger/Pasted image 20260624202601.png",
+    "//Untitled.canvas",
+    "MasterSet/MasterSet.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Projects/Dai Minnenger/Untitled.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map/Brand Ecosystem Map.md",
+    "TimeTrackers/BOM_TimeTracker.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map/Untitled mindmap.md",
     "TimeTrackers/DAI_TimeTracker.md",
-    "Projects/Dai Minnenger/Brand Ecosystem Map/Brand Ecosystem Map.md",
-    "Projects/Dai Minnenger/Week1Meeting-DM.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map",
     "TimeTrackers/TimeTrackers.md",
-    "TimeTrackers/BOM_TimeTracker.md",
     "Chicago Marketing/Lead CRM.base",
-    "Projects/Dai Minnenger/Dai Minnenger.md",
     "Projects/Dai Minnenger/Untitled mindmap.md",
-    "Projects/Dai Minnenger/Untitled.md",
     "Projects/Dai Minnenger",
     "Projects/Projects.md",
     "Projects",
     "Tags/Tags.md",
     "Chicago Marketing/Chicago Marketing.md",
-    "MasterSet/MasterSet.md",
     "MasterSet/Try MasterSet Premium free for your first month.md",
     "MasterSet/FIRSTMONTHFREE.md",
     "MasterSet/Discount Promotion Emails.md",
@@ -300,8 +333,6 @@
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
     "Chicago Marketing/Leads/Email - AP&M.md",
-    "Chicago Marketing/Leads/Ayla Photo & Media.md",
-    "Chicago Marketing/Leads/Email - NIRB.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
@@ -318,8 +349,6 @@
     "SP 26/MGMT 361/Images/GanttChart.png",
     "Freelance/PE Project Hub/02_Strategy-PE/Branding-PE/PE - Logo Blue.png",
     "Olive Branch Studio/Clients/PE-prelim/_Client Hub Canvas.canvas",
-    "Materials/Banners/toledo.jpg",
-    "Untitled.canvas",
     "OBS/OBS Canvas.canvas",
     "OBS/Clients/a/Client Hub.canvas",
     "OBS/Clients/h/Client Hub.canvas",

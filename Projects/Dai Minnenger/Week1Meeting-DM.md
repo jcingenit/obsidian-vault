@@ -1,4 +1,4 @@
-### Reconfirm the purpose of the project
+# Reconfirm the purpose of the project
 
 “For this first phase, I want to help organize everything you have going on so the marketing feels clearer, more intentional, and easier to execute. The goal is not to force everything into one lane, but to understand how each project fits together and what needs attention first.”
 
