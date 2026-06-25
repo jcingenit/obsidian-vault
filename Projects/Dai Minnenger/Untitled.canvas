@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a6982629e4c9592c","type":"text","text":"# Music Services\n","x":60,"y":220,"width":181,"height":50,"color":"6"},
+		{"id":"3e6dd28ac78a7e92","type":"text","text":"# Music Services\n","x":-354,"y":220,"width":181,"height":50,"color":"6"},
+		{"id":"0ac9933e8f218843","type":"text","text":"# Core Theme\nA community-centered creative ecosystem using music, wellness, and affirming resources to help people feel seen, supported, inspired, and connected.","x":-385,"y":-260,"width":329,"height":203},
+		{"id":"0b350b4fcbc15432","type":"text","text":"# Unifying Messaging\nEach project creates access, representation, and care for underrepresented communities through culture, health, education, and self-expression.","x":-25,"y":-260,"width":325,"height":203},
+		{"id":"d712cd58d3853fd9","type":"text","text":"# Dai's Brand Ecosystem","x":-160,"y":60,"width":233,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"aa4523c53f03c3a5","fromNode":"d712cd58d3853fd9","fromSide":"top","toNode":"0ac9933e8f218843","toSide":"bottom"},
+		{"id":"dd5ada0748aea685","fromNode":"d712cd58d3853fd9","fromSide":"top","toNode":"0b350b4fcbc15432","toSide":"bottom"},
+		{"id":"d7b0aea2bcd87079","fromNode":"d712cd58d3853fd9","fromSide":"bottom","toNode":"3e6dd28ac78a7e92","toSide":"top"},
+		{"id":"de1f79f848e44ea3","fromNode":"d712cd58d3853fd9","fromSide":"bottom","toNode":"a6982629e4c9592c","toSide":"top"}
+	]
+}

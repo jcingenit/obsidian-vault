@@ -1,7 +1,5 @@
 # **Dai Minenger**  
-- Creative entrepreneur, artist, DJ, brand builder, and community-centered creator.
-**Core Role:**  
-Dai is the central personality and creative force connecting multiple projects across music, food, events, community, and personal expression.
+- Creative entrepreneur, artist, DJ, brand builder, and community-centered.
 
 **Main Brand Purpose:**  
 To create experiences, products, and creative work that bring people together through music, culture, food, and community.
@@ -11,3 +9,5 @@ There are multiple strong projects happening at once, but the marketing needs cl
 
 **Primary Marketing Goal:**  
 Create a clearer ecosystem that makes it easier for Dai to promote the right project at the right time without everything feeling scattered.
+
+## NoPowerOff

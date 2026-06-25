@@ -63,21 +63,9 @@
             "id": "d8be447acc6b31c9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Projects/Dai Minnenger"
-              },
-              "icon": "lucide-file",
-              "title": "Dai Minnenger"
-            }
-          },
-          {
-            "id": "8f583d0f7ee3359c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dai Minnenger/Brand Ecosystem Map.md",
+                "file": "Projects/Dai Minnenger/Week1Meeting-DM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -92,27 +80,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Brand Ecosystem Map"
+              "title": "Week1Meeting-DM"
+            }
+          },
+          {
+            "id": "8f583d0f7ee3359c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/Dai Minnenger/Untitled.canvas",
+                "viewState": {
+                  "x": 70.68000000000006,
+                  "y": 70.68000000000004,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "736f8e662736a026",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8153d63002c1b8d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of Brand Ecosystem Map"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -298,17 +287,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8153d63002c1b8d",
+  "active": "8f583d0f7ee3359c",
   "lastOpenFiles": [
+    "Projects/Dai Minnenger/Week1Meeting-DM.md",
+    "Projects/Dai Minnenger/Untitled.canvas",
     "Projects/Dai Minnenger/Brand Ecosystem Map.md",
     "Projects/Dai Minnenger/Dai Minnenger.md",
-    "Projects/Dai Minnenger/Week1Meeting-DM.md",
+    "Projects/Dai Minnenger/Untitled.md",
     "Projects/Dai Minnenger/Pasted image 20260624202601.png",
     "//Untitled.canvas",
     "MasterSet/MasterSet.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Projects/Dai Minnenger/Untitled.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map/Brand Ecosystem Map.md",
     "TimeTrackers/BOM_TimeTracker.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map/Untitled mindmap.md",
@@ -332,7 +322,6 @@
     "Vault.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
     "Chicago Marketing/Leads/Harmony House for Cats.md",
-    "Chicago Marketing/Leads/Email - AP&M.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
