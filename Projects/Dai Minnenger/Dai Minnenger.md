@@ -1,5 +1,5 @@
 Week 1 Start
-[[Brand Ecosystem Map]]
+[[Brand Ecosystem Map.canvas]]
 [[Website]]
 
 [[Week1Meeting-DM]]

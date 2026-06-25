@@ -60,48 +60,24 @@
             }
           },
           {
-            "id": "d8be447acc6b31c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Dai Minnenger/Week1Meeting-DM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Week1Meeting-DM"
-            }
-          },
-          {
             "id": "8f583d0f7ee3359c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Projects/Dai Minnenger/Untitled.canvas",
+                "file": "Projects/Dai Minnenger/Brand Ecosystem Map.canvas",
                 "viewState": {
-                  "x": 1101.3279253798626,
-                  "y": 96.59238348744768,
-                  "zoom": -1.4276915128430037
+                  "x": 1028.7945793370734,
+                  "y": 117.49232738883299,
+                  "zoom": -1.4610214704095492
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Brand Ecosystem Map"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,10 +265,10 @@
   },
   "active": "8f583d0f7ee3359c",
   "lastOpenFiles": [
-    "Projects/Dai Minnenger/Week1Meeting-DM.md",
-    "Projects/Dai Minnenger/Untitled.canvas",
-    "Projects/Dai Minnenger/Brand Ecosystem Map.md",
     "Projects/Dai Minnenger/Dai Minnenger.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map.canvas",
+    "Projects/Dai Minnenger/Week1Meeting-DM.md",
     "Projects/Dai Minnenger/Untitled.md",
     "Projects/Dai Minnenger/Pasted image 20260624202601.png",
     "//Untitled.canvas",
