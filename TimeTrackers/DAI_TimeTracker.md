@@ -10,4 +10,5 @@ color: var(--mk-color-pink)
 |     |     |     |     |     |     |     |     |     |     |
 
 ```simple-time-tracker
+{"entries":[]}
 ```

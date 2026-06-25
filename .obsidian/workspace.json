@@ -34,21 +34,6 @@
             }
           },
           {
-            "id": "b419d7f737e1fe7a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Chicago Marketing/Lead CRM.base",
-                "viewName": "Table"
-              },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "Lead CRM"
-            }
-          },
-          {
             "id": "0da3704a3f5c3be2",
             "type": "leaf",
             "pinned": true,
@@ -87,42 +72,19 @@
             }
           },
           {
-            "id": "1f34ea38bd5c6cf3",
+            "id": "312d3f39c56e6526",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "mindmapview",
               "state": {
-                "path": "Projects/Dai Minnenger"
+                "file": "Projects/Dai Minnenger/Brand Ecosystem Map/Untitled mindmap.md"
               },
-              "icon": "lucide-file",
-              "title": "Dai Minnenger"
-            }
-          },
-          {
-            "id": "05ca21c0c3bb59e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Dai Minnenger/Week1Meeting-DM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Week1Meeting-DM"
+              "icon": "blocks",
+              "title": "Untitled mindmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -308,22 +270,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "0da3704a3f5c3be2",
   "lastOpenFiles": [
-    "Projects/Dai Minnenger/Week1Meeting-DM.md",
-    "Projects/Dai Minnenger/Dai Minnenger.md",
-    "Projects/Dai Minnenger/Brand Ecosystem Map.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map/Untitled mindmap.md",
     "TimeTrackers/DAI_TimeTracker.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map/Brand Ecosystem Map.md",
+    "Projects/Dai Minnenger/Week1Meeting-DM.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map",
+    "TimeTrackers/TimeTrackers.md",
+    "TimeTrackers/BOM_TimeTracker.md",
+    "Chicago Marketing/Lead CRM.base",
+    "Projects/Dai Minnenger/Dai Minnenger.md",
     "Projects/Dai Minnenger/Untitled mindmap.md",
     "Projects/Dai Minnenger/Untitled.md",
     "Projects/Dai Minnenger",
     "Projects/Projects.md",
     "Projects",
-    "TimeTrackers/TimeTrackers.md",
     "Tags/Tags.md",
     "Chicago Marketing/Chicago Marketing.md",
-    "TimeTrackers/BOM_TimeTracker.md",
-    "Chicago Marketing/Lead CRM.base",
     "MasterSet/MasterSet.md",
     "MasterSet/Try MasterSet Premium free for your first month.md",
     "MasterSet/FIRSTMONTHFREE.md",
@@ -338,14 +302,12 @@
     "Chicago Marketing/Leads/Email - AP&M.md",
     "Chicago Marketing/Leads/Ayla Photo & Media.md",
     "Chicago Marketing/Leads/Email - NIRB.md",
-    "Chicago Marketing/Leads/NIR Beauty.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
     "Chicago Marketing",
     "Tags/#contact",
     "Templates/Leads Template",
-    "Templates",
     "SP 26/MGMT 361/Images/LittlesSummary2.png",
     "SP 26/MGMT 361/Images/InventoryTurns.png",
     "SP 26/MGMT 361/Images/LittlesSummary.png",
