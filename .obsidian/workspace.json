@@ -76,8 +76,7 @@
               "title": "Brand Ecosystem Map"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,13 +262,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8f583d0f7ee3359c",
+  "active": "94ca95eae73a7b17",
   "lastOpenFiles": [
+    "TimeTrackers/DAI_TimeTracker.md",
+    "TimeTrackers/BOM_TimeTracker.md",
+    "Projects/Dai Minnenger/Brand Ecosystem Map.canvas",
     "MasterSet/Evergreen Emails/Built for Collectors Who Want to Stay Organized.md",
     "MasterSet/Evergreen Emails/Evergreen Emails.md",
     "MasterSet/MasterSet.md",
     "MasterSet/Discount Promotion Emails.md",
-    "Projects/Dai Minnenger/Brand Ecosystem Map.canvas",
     "Projects/Dai Minnenger/Dai Minnenger.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map.md",
     "Projects/Dai Minnenger/Week1Meeting-DM.md",
@@ -279,9 +280,7 @@
     "Untitled.md",
     "Untitled.canvas",
     "Projects/Dai Minnenger/Brand Ecosystem Map/Brand Ecosystem Map.md",
-    "TimeTrackers/BOM_TimeTracker.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map/Untitled mindmap.md",
-    "TimeTrackers/DAI_TimeTracker.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map",
     "TimeTrackers/TimeTrackers.md",
     "Chicago Marketing/Lead CRM.base",
@@ -298,7 +297,6 @@
     "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
     "Vault.md",
     "Chicago Marketing/Leads/Email - HHFC.md",
-    "Chicago Marketing/Leads/Harmony House for Cats.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
