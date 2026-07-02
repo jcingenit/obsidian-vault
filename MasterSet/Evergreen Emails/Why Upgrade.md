@@ -23,7 +23,7 @@
 
   <p>Whether you’re building your first master set or managing a growing collection, Premium helps make the process easier.</p>
 
-  <p>Plans start at <strong>$4.99/month</strong>.</p>
+  <p>Plans start at <strong>$3.99/month</strong>.</p>
 
   <p>
     <a href="https://tcgmasterset.app/subscription" style="background-color: #4f46e5; color: #ffffff; padding: 12px 18px; text-decoration: none; border-radius: 6px; display: inline-block;">
