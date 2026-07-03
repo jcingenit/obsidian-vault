@@ -3,7 +3,7 @@ color: var(--mk-color-purple)
 ---
 Week 1 Start
 [[Brand Ecosystem Map.canvas]]
-[(Website)()]
+[Website](https://important-writing-029736.framer.app/)
 
 [[Week1Meeting-DM]]
 
