@@ -1,6 +1,9 @@
+---
+color: var(--mk-color-purple)
+---
 Week 1 Start
 [[Brand Ecosystem Map.canvas]]
-[[Website]]
+[(Website)()]
 
 [[Week1Meeting-DM]]
 
