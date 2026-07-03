@@ -63,12 +63,24 @@
             "id": "8f583d0f7ee3359c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Projects/Dai Minnenger"
+                "file": "Projects/Dai Minnenger/Week2Meeting-DM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Dai Minnenger"
+              "title": "Week2Meeting-DM"
             }
           }
         ],
@@ -261,6 +273,7 @@
   "active": "8f583d0f7ee3359c",
   "lastOpenFiles": [
     "Projects/Dai Minnenger/Dai Minnenger.md",
+    "Projects/Dai Minnenger/Week2Meeting-DM.md",
     "Projects/Dai Minnenger/Social Content Guide.md",
     "Projects/Dai Minnenger/Week1Meeting-DM.md",
     "Projects/Dai Minnenger/Brand Ecosystem Map.canvas",
@@ -293,7 +306,6 @@
     "MasterSet/See if Premium is right for your collection.md",
     "MasterSet/Build your next master set with a free month of Premium.md",
     "MasterSet/Evergreen Emails/Get More Out of MasterSet.md",
-    "Vault.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",

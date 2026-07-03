@@ -7,20 +7,22 @@ Week 1 Start
 
 [[Week1Meeting-DM]]
 
-Week 2 Start
-[[Music Promo Plan]]
-[[Sweet Glens Summer Menu]]
+**Week 2 Start**
 
 [[Week2Meeting-DM]]
 
 Week 3 Start
+[[Music Promo Plan]]
+[[Sweet Glens Summer Menu]]
+
+Week 4 Start
 [[Transcend Direction]]
 [[DJ Direction]]
 [[Social Content Guide]]
 
 [[Week3Meeting-DM]]
 
-Week 4 Start
+Week 5 Start
 [[Ads Readiness]]
 [[Strategy Guide]]
 
