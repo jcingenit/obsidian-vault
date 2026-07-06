@@ -5,7 +5,7 @@ Timeline: 5–7 days before release
 
 Content:
 - Teaser clip
-- Track/mix mood description
+- Track mood description
 - Behind-the-scenes post
 - Story countdown
 - “New mix coming soon” post
@@ -28,9 +28,8 @@ Timeline: 1–2 weeks after release
 
 Content:
 - Highlight moments from the mix
-- Share listener feedback
 - Post a short breakdown of the sound
-- Connect it to booking
+- **Connect it to booking**
 
 Example CTA:
 If this is the kind of energy your event needs, booking inquiries are open.

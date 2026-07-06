@@ -37,24 +37,12 @@
             "id": "8f583d0f7ee3359c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Projects/Dai Minnenger/Music Promo Plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "Projects/Dai Minnenger"
               },
               "icon": "lucide-file",
-              "title": "Music Promo Plan"
+              "title": "Dai Minnenger"
             }
           }
         ],
@@ -244,13 +232,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8f583d0f7ee3359c",
+  "active": "a3c19e292fc692cb",
   "lastOpenFiles": [
-    "Projects/Dai Minnenger/Dai Minnenger.md",
     "Projects/Dai Minnenger/Week3Meeting-DM.md",
+    "Projects/Dai Minnenger/Dai Minnenger.md",
+    "Projects/Dai Minnenger/Music Promo Plan.md",
     "Projects/Dai Minnenger/Week5Meeting-DM.md",
     "Projects/Dai Minnenger/Social Content Guide - Music.md",
-    "Projects/Dai Minnenger/Music Promo Plan.md",
     "Projects/Dai Minnenger/Week2Meeting-DM.md",
     "TimeTrackers/BOM_TimeTracker.md",
     "TimeTrackers/DAI_TimeTracker.md",

@@ -22,4 +22,3 @@ After - Meeting
 	Send link to Affinity
 	PDFs of Transcend
 	Put Article on the Website
-	
