@@ -15,3 +15,11 @@ Next Steps
 	DJ General Direction
 	Music Social Content Guide
 	Transcend Social Content Guide
+
+After - Meeting
+	Framer Guide
+	Calendly Link
+	Send link to Affinity
+	PDFs of Transcend
+	Put Article on the Website
+	
