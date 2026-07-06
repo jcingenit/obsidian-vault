@@ -21,7 +21,7 @@ Week 3 Start
 Week 4 Start
 [[Transcend Direction]]
 [[DJ Direction]]
-[[Social Content Guide]]
+[[Social Content Guide - Music]]
 
 [[Week4Meeting-DM]]
 
