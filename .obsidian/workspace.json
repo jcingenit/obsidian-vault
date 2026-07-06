@@ -37,15 +37,28 @@
             "id": "8f583d0f7ee3359c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Projects/Dai Minnenger"
+                "file": "Projects/Dai Minnenger/Music Promo Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Dai Minnenger"
+              "title": "Music Promo Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +244,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "94ca95eae73a7b17",
+  "active": "8f583d0f7ee3359c",
   "lastOpenFiles": [
-    "TimeTrackers/DAI_TimeTracker.md",
+    "Projects/Dai Minnenger/Music Promo Plan.md",
     "TimeTrackers/BOM_TimeTracker.md",
+    "TimeTrackers/DAI_TimeTracker.md",
     "Projects/Dai Minnenger/Dai Minnenger.md",
     "Projects/Dai Minnenger/Week5Meeting-DM.md",
     "Projects/Dai Minnenger/Week2Meeting-DM.md",
@@ -266,7 +280,6 @@
     "MasterSet/Try MasterSet Premium free for your first month.md",
     "MasterSet/FIRSTMONTHFREE.md",
     "MasterSet/See if Premium is right for your collection.md",
-    "MasterSet/Build your next master set with a free month of Premium.md",
     "Tags",
     "MasterSet/Evergreen Emails",
     "MasterSet",
